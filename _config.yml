@@ -83,8 +83,8 @@ author:
   name             : "Xingchen (Cedric) Xu"
   avatar           : "Profile.jpeg"
   bio              : "Final Year Undergraduate"
-  location         : "School of Economics and Management, Tsinghua University"
-  employer         :
+  location         : 
+  employer         : "School of Economics and <br /> Management, Tsinghua University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=i_ZUje0AAAAJ"
   email            : "xuxch.16@sem.tsinghua.edu.cn"
