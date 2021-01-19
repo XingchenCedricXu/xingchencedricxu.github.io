@@ -10,5 +10,5 @@ He Y, Xu X, Huang N, Hong Y, Liu D. 2020. [Preserving User Privacy Through Ephem
 
 Huang N, He Y, Burtch G, Xu X, Hong Y. 2020. [Examining the Effects of Demand Information Disclosure on Congestion and Matching Efficiency in Online Dating](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3514033)
 - *Information Systems Research*, Under 2nd round review.
-– 2020 INFORMS eBusiness Cluster Best Paper Nomination.
-– Preliminary version appeared in *2020 INFORMS Conference on Information Systems and Technology (CIST)*, *2020 International Conference on Information Systems (ICIS)*, *2020 INFORMS Annual Meeting*, *2020 Workshop on Information Systems and Economics (WISE)*.
+- 2020 INFORMS eBusiness Cluster Best Paper Nomination.
+- Preliminary version appeared in *2020 INFORMS Conference on Information Systems and Technology (CIST)*, *2020 International Conference on Information Systems (ICIS)*, *2020 INFORMS Annual Meeting*, *2020 Workshop on Information Systems and Economics (WISE)*.
