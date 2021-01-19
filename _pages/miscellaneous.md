@@ -11,4 +11,4 @@ In my spare time, I enjoy coding, reading, and watching TV series.
 If you find any interesting coding project, books, or TV series, please contact me!
 
 Furthermore, with the expectation that I would lose most of my hair during my Ph.D. career, I kept a collection of personal photography when I became 23 years old. Let’s check what will happen to me in the next five years.
-<br/><img src='/images/cx_personal_photography.jpeg'>
+<br/><img src='/images/cx_personal.jpeg'>
