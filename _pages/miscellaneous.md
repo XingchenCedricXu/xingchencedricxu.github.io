@@ -4,6 +4,7 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
+## Hobby
 In my spare time, I enjoy coding, reading, and watching TV series. 
 -	I am currently trying to generalize some causal inference packages to more complex empirical contexts.
 -	Inspired from the book [*Justice: What's the Right Thing to Do?*](https://en.wikipedia.org/wiki/Justice:_What%27s_the_Right_Thing_to_Do%3F), I strive to improve my ability of critical thinking based on a wide range of philosophical theories.
@@ -13,3 +14,6 @@ If you find any interesting coding project, books, or TV series, please contact 
 
 Furthermore, with the expectation that I might lose most of my hair during the Ph.D. career, I keep a collection of personal photography (The photo shown below includes the 23-year-old version of me). Let’s check what will happen to me in the next five years.
 <br/><img src='/images/cx_personal.jpeg'>
+
+## [Her](https://ran-tao.com/)
+She's still struggling with the choice between studying aboard and working at China though the latter choice depends on the return offer situation.
