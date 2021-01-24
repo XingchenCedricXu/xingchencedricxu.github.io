@@ -14,6 +14,3 @@ If you find any interesting coding project, books, or TV series, please contact 
 
 Furthermore, with the expectation that I might lose most of my hair during the Ph.D. career, I keep a collection of personal photography (The photo shown below includes the 23-year-old version of me). Let’s check what will happen to me in the next five years.
 <br/><img src='/images/cx_personal.jpeg'>
-
-## [Her](https://ran-tao.com/)
-She's still struggling with the choice between studying aboard and working at China though the latter choice depends on the return offer situation.
