@@ -14,4 +14,4 @@ My current research focuses on the design and evaluation of IT-enabled intervent
 
 I am fortunate to conduct research under the supervision of [Prof. Kevin Hong](http://kevinhong.me/) (UH Bauer) and [Prof. Nina Huang](http://nihuang.me/) (UH Bauer). I am also glad to work with [Prof. De Liu](https://de4liu.github.io/home/) (UMN Carlson), [Prof. Gordon Burtch](https://carlsonschool.umn.edu/faculty/gordon-burtch) (UMN Carlson), and [Dr. Yumei He](https://www.bauer.uh.edu/directory/profile.asp?firstname=Yumei&lastname=He) (UH Bauer). Outside of academia, I’ve been working with an online dating company and an online education company as an external researcher. 
 
-[Download Curriculum Vitae (PDF)](/home/files/CV_Xingchen_Xu.pdf)
+[Download Curriculum Vitae (PDF)](/files/CV_Xingchen_Xu.pdf)
