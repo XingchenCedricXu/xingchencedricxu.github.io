@@ -9,6 +9,6 @@ author_profile: true
 - Comprehensive Excellence Award, 2019
 - Zheng Weimin Scholarship, 2018
 - China National Scholarship, 2018
-- Academic Excellence Award, 2017-2020
+- Academic Excellence Award, 2017-2019
 
 <!-- {{ post.date | date: '%m %d, %Y' }} -->
