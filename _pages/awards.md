@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## 2021
-- ICIS Best Overall Conference Paper Nomination, 2021
+- ICIS Best Paper in Track (IS Design, Development and Project Management), 2021
 - Foster Ph.D. Fellowship, 2021-2024
 
 ## 2017 - 2020
