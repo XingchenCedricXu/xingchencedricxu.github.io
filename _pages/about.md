@@ -14,4 +14,4 @@ My current research focuses on the design and evaluation of IT-enabled intervent
 
 Before my PhD career, I studied Information Management and Information Systems at School of Economics and Mangament, Tsinghua University. I was glad to cultivate research skills under the guidance of Professor [Kevin Hong](http://kevinhong.me/) and Professor [Bo Li](https://www.sem.tsinghua.edu.cn/en/info/1233/6986.htm) during that period.
 
-*“Remebering that you are going to die is the best way I know to avoid the trap of thinking that you have something to lose.” —— Steve Jobs@Stanford, 2005*
+*“Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose” —— Steve Jobs@Stanford, 2005*
