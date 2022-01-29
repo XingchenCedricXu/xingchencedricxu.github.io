@@ -11,7 +11,3 @@ In my spare time, I enjoy coding, reading, and watching TV series.
 -	I am especially interested in TV series related to Finance ([*Billions*](https://en.wikipedia.org/wiki/Billions_(TV_series))), Science ([*The Big Bang Theory*](https://en.wikipedia.org/wiki/The_Big_Bang_Theory)), Technology ([*Silicon Valley*](https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series))), and Politics ([*Yes, Minister*](https://en.wikipedia.org/wiki/Yes_Minister)).
 
 If you find any interesting coding projects, books, or TV series, please contact me!
-
-Furthermore, with the expectation that I might lose most of my hair during the Ph.D. career, I keep a collection of personal photography (The photo shown below includes the 23-year-old version of me). Let’s check what will happen to me in the next five years.
-
-<br/><img src='/images/cx_personal.jpeg'>
