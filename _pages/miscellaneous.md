@@ -13,6 +13,6 @@ In my spare time, I enjoy coding, reading, and watching TV series.
 If you find any interesting coding projects, books, or TV series, please contact me!
 
 ## Sports
-I'm a runner and a retired taekwondo athlete
+I'm a runner and a retired taekwondo athlete.
 -	My Personal Best (PB) in 100m is 11.2s.
 -	I won a silver medal in a city-level professional sports meet (one step away from Zhejiang provincial sport team).
