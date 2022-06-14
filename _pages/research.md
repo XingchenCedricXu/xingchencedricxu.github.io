@@ -9,6 +9,6 @@ author_profile: true
 
 2. Xingchen Xu, Qili Wang, Yizhi Liu, and Liangfei Qiu, "Social Attention as Reference Points: Evidence from A Field Experiment."
 
-3. Xingchen Xu, Yong Tan, "How do Peer Awards affect User-generated Content in Online Mental Healthcare Communities? An Empirical Investigation."
+3. Xingchen Xu and Yong Tan, "How do Peer Awards affect User-generated Content in Online Mental Healthcare Communities? An Empirical Investigation."
 
 4. Kyungmin Park, Stephanie Lee, Yong Tan, and Xingchen Xu, "Student Social Engagement in Online Learning: An Empirical Study."
