@@ -16,3 +16,4 @@ If you find any interesting coding projects, books, or TV series, please contact
 I'm a runner and a retired taekwondo athlete.
 -	My Personal Best (PB) in 100m is 11.2s.
 -	I won a silver medal (taekwondo: 53kg male) in a city-level professional sports meet (one step away from Zhejiang Sports Team).
+-	I also finished a Road Cycling around Qinghai Lake (360 kilometers) in four days.
