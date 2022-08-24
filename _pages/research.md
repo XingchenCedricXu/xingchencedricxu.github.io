@@ -11,7 +11,7 @@ author_profile: true
     - Preliminary version appeared in CODE 2020, WISE 2020, HCISS 2021, DSI 2021, CSWIM 2021, ICIS 2021.
 
 2. Xingchen Xu, Qili Wang, Yizhi Liu, and Liangfei Qiu, "Social Attention as a Reference Point: Evidence from A Field Experiment."
-    - Preliminary version appeared at POMS 2022, CIST 2022.
+    - Preliminary version appeared in POMS 2022, CIST 2022.
 
 3. Xingchen Xu\*, Lijia Ma\*, and Yong Tan, "How do Peer Awards affect User-generated Content in Online Mental Healthcare Communities? An Empirical Investigation."
     - Preliminary version appeared in POMS 2022.
