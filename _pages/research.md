@@ -21,3 +21,5 @@ author_profile: true
 
 5. Xingchen Xu, Yifan Yu, Wendao Xue, and Yong Tan, "Algorithmic Bias in Online Game Matchmaking."
     - Preliminary version appeared in INFORMS 2022.
+
+6. Xingchen Xu, Uttara Ananthakrishnan, Anjana Susarla, and Yong Tan, "Dynamics in Online-Offline Healthcare Choices: An Empirical Study."
