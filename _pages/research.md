@@ -23,3 +23,5 @@ author_profile: true
     - Preliminary version appeared in INFORMS 2022.
 
 6. Xingchen Xu, Uttara Ananthakrishnan, Anjana Susarla, and Yong Tan, "Dynamics in Online-Offline Healthcare Choices: An Empirical Study."
+
+7. Ye Liu, Xingchen Xu, and Yong Tan, "Dynamic Seeding Strategy."
