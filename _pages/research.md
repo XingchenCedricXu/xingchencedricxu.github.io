@@ -16,11 +16,11 @@ author_profile: true
 3. Xingchen Xu\*, Lijia Ma\*, and Yong Tan, "How do Peer Awards affect User-generated Content in Online Mental Healthcare Communities? An Empirical Investigation."
     - Preliminary version appeared in POMS 2022.
 
-4. Kyungmin Park, Stephanie Lee, Yong Tan, and Xingchen Xu, "Student Social Engagement in Online Learning: An Empirical Study."
-    - Preliminary version appeared in CIST 2022.
-
-5. Xingchen Xu, Yifan Yu, Wendao Xue, and Yong Tan, "Algorithmic Bias in Online Game Matchmaking."
+4. Xingchen Xu, Yifan Yu, Wendao Xue, and Yong Tan, "Algorithmic Bias in Online Game Matchmaking."
     - Preliminary version appeared in INFORMS 2022.
+
+5. Kyungmin Park, Stephanie Lee, Yong Tan, and Xingchen Xu, "Student Social Engagement in Online Learning: An Empirical Study."
+    - Preliminary version appeared in CIST 2022.
 
 6. Xingchen Xu, Uttara Ananthakrishnan, Anjana Susarla, and Yong Tan, "Dynamics in Online-Offline Healthcare Choices: An Empirical Study."
 
