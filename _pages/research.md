@@ -26,6 +26,8 @@ author_profile: true
 
 7. "Pricing with Strategic Users." (short title)
 
-8. "Dynamic Seeding Strategy." (short title)
+8. "Preference and Friction in Online Dating." (short title)
 
-9. "Preference and Friction in Online Dating." (short title)
+9. "Disclosure Policy and UGC Generation." (short titile)
+
+10. "Dynamic Seeding Strategy." (short title)
