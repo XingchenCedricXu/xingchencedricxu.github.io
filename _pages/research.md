@@ -24,4 +24,8 @@ author_profile: true
 
 6. Xingchen Xu, Uttara Ananthakrishnan, Anjana Susarla, and Yong Tan, "Dynamics in Online-Offline Healthcare Choices: An Empirical Study."
 
-7. Ye Liu, Xingchen Xu, and Yong Tan, "Dynamic Seeding Strategy."
+7. "Pricing with Strategic Users." (short title)
+
+8. "Dynamic Seeding Strategy." (short title)
+
+9. "Preference and Friction in Online Dating." (short title)
