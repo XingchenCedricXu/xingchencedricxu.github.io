@@ -12,6 +12,8 @@ I am a first year PhD student at Michael G. Foster School of Bussiness, Universi
 
 My current research focuses on the design and evaluation of IT-enabled interventions, which can be further divided into two lines: On one hand, I am interested in how AI systems/market design/peers' behavior affect users’ decision-making process and thereby influence economic value/social welfare. On the other hand, I am also interested in designing models/algorithms to understand dynamic processes and optimize policies. My research topics are quite broad, including Fintech, Social Media, Online Matching, Online Healthcare, Online Education, Video Game, Live Streaming/Short Video, Digital Marketing, etc. Methodologically, I leverage econometric/statistical models (including structural models), analytical models, field/lab experiments, machine learning/deep learning (including reinforcement learning framework) to conduct design, analyze data, infer causality, and optimize policies.
 
+I also enjoy cooperating with all kinds of enterprises to tackle real-world problems. People (e.g., managers, designers, and engineers) in the industry always inspire me.
+
 Before my PhD career, I studied Information Management and Information Systems at School of Economics and Mangament, Tsinghua University. I was glad to cultivate research skills under the guidance of Professor [Kevin Hong](http://kevinhong.me/) and Professor [Bo Li](https://www.sem.tsinghua.edu.cn/en/info/1233/6986.htm) during that period.
 
 *“Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose” —— Steve Jobs@Stanford, 2005*
