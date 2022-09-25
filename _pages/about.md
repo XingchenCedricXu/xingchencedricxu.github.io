@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at Michael G. Foster School of Bussiness, University of Washington. I'm fortunate to work under the supervision of Professor [Yong Tan](http://faculty.washington.edu/ytan/index.htm).
+I am a second year PhD student at Michael G. Foster School of Bussiness, University of Washington. I'm fortunate to work under the supervision of Professor [Yong Tan](http://faculty.washington.edu/ytan/index.htm).
 
 My current research focuses on the design and evaluation of IT-enabled interventions, which can be further divided into two lines: On one hand, I am interested in how AI systems/market design/peers' behavior affect users’ decision-making process and thereby influence economic value/social welfare. On the other hand, I am also interested in designing models/algorithms to understand dynamic processes and optimize policies. My research topics are quite broad, including Fintech, Social Media, Online Matching, Online Healthcare, Online Education, Video Game, Live Streaming/Short Video, Digital Marketing, etc. Methodologically, I leverage econometric/statistical models (including structural models), analytical models, field/lab experiments, and machine learning/deep learning (including reinforcement learning framework) to conduct design, analyze data, infer causality, and optimize policies.
 
