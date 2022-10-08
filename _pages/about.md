@@ -16,4 +16,6 @@ I also enjoy cooperating with all kinds of enterprises to tackle real-world prob
 
 Before my PhD career, I studied Information Management and Information Systems at School of Economics and Mangament, Tsinghua University. I was glad to cultivate research skills under the guidance of Professor [Kevin Hong](http://kevinhong.me/) and Professor [Bo Li](https://www.sem.tsinghua.edu.cn/en/info/1233/6986.htm) during that period.
 
-*“Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose” —— Steve Jobs@Stanford, 2005*
+
+*“Models tend to be useful when they are simultaneously simple enough to fit a variety of behaviors and complex enough to fit behaviors that need the help of an explanatory model.” —— Thomas C. Schelling*
+*“Each of these ubiquitous marketplaces has found a way to succeed not only in making markets thick, uncongested, and safe, but also in making them simple to use.” —— Alvin E. Roth*
