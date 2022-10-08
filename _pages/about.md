@@ -18,4 +18,5 @@ Before my PhD career, I studied Information Management and Information Systems a
 
 
 *“Models tend to be useful when they are simultaneously simple enough to fit a variety of behaviors and complex enough to fit behaviors that need the help of an explanatory model.” —— Thomas C. Schelling*
+
 *“Each of these ubiquitous marketplaces has found a way to succeed not only in making markets thick, uncongested, and safe, but also in making them simple to use.” —— Alvin E. Roth*
