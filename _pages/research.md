@@ -19,7 +19,7 @@ author_profile: true
 4. Xingchen Xu, Yifan Yu, Wendao Xue, and Yong Tan, "Algorithmic Bias in Online Game Matchmaking."
     - Preliminary version appeared in INFORMS 2022.
 
-5. Kyungmin Park, Stephanie Lee, Yong Tan, and Xingchen Xu, "Student Social Engagement in Online Learning: An Empirical Study."
+5. Kyungmin Park, Xingchen Xu, Stephanie Lee, and Yong Tan, "Student Social Engagement in Online Learning: An Empirical Study."
     - Preliminary version appeared in CIST 2022.
 
 6. "Preference and Friction in Online Dating." (short title)
