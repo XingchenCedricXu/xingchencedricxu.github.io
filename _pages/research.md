@@ -22,12 +22,10 @@ author_profile: true
 5. Kyungmin Park, Xingchen Xu, Stephanie Lee, and Yong Tan, "Student Social Engagement in Online Learning: An Empirical Study."
     - Preliminary version appeared in CIST 2022.
 
-6. "Preference and Friction in Online Dating." (short title)
+6. "Learn Your League in Online Dating." (with two coauthors)
 
-7. Xingchen Xu, Uttara Ananthakrishnan, Anjana Susarla, and Yong Tan, "Dynamics in Online-Offline Healthcare Choices: An Empirical Study."
+7. "Dynamics in Online-Offline Healthcare Choices: An Empirical Study." (with three coauthors)
 
-8. "Pricing with Strategic Users." (short title)
+8. "Pricing with Strategic Users." (with two coauthors)
 
-9. "Disclosure Policy and UGC Generation." (short titile)
-
-10. "Dynamic Seeding Strategy." (short title)
+9. "Disclosure Policy and UGC Generation." (with three coauthors)
