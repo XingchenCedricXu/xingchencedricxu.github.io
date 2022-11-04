@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 ## Teaching Assistantships at UW
+- IS 460A: Systems Analysis and Design, 2023 Spring (scheduled)
+- IS 300 (Lab Instructor & TA): Introduction to Information Systems, 2023 Winter (scheduled)
 - IS 300 (Lab Instructor & TA): Introduction to Information Systems, 2022 Fall
 - MSIS 512B: Information Security in a Networked World, 2022 Fall
 - IS 445B: Database Management, 2022 Spring
