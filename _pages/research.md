@@ -29,7 +29,3 @@ author_profile: true
 8. "Algorithmic Pricing with Stragetic Users." (with two coauthors)
 
 9. "Disclosure Policy and UGC." (with three coauthors)
-
-10. "How do Texts affect Image Preference? A Multimodel Deep Learning Approach." (with three coauthors)
-
-11. "Competition and Cooperation among Video Platforms." (with two coauthors)
