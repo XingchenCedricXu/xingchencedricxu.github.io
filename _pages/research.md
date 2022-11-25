@@ -24,7 +24,7 @@ author_profile: true
 
 6. "Learn Your League in Online Dating." (with two coauthors)
 
-7. "Dynamics in Online-Offline Healthcare Choices: An Empirical Study." (with three coauthors)
+7. "Rescource Subscription Strategy." (with three coauthors)
 
 8. "Algorithmic Pricing with Stragetic Users." (with two coauthors)
 
