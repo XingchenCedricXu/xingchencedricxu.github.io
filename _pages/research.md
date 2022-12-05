@@ -13,7 +13,7 @@ author_profile: true
 2. Xingchen Xu, Qili Wang, Yizhi Liu, and Liangfei Qiu, "Social Attention as a Reference Point: Evidence from A Field Experiment."
     - Preliminary version appeared in POMS 2022, CIST 2022.
 
-3. Kyungmin Park, Xingchen Xu, Stephanie Lee, and Yong Tan, "Student Social Engagement in Online Education: An Empirical Study."
+3. Kyungmin Park, Xingchen Xu, Stephanie Lee, and Yong Tan, "Student Social Engagement in Online Education Communities: An Empirical Study."
     - Preliminary version appeared in CIST 2022.
 
 4. "Learn Your League in Online Dating." (with two coauthors)
