@@ -13,16 +13,16 @@ author_profile: true
 2. Xingchen Xu, Qili Wang, Yizhi Liu, and Liangfei Qiu, "Social Attention as a Reference Point: Evidence from A Field Experiment."
     - Preliminary version appeared in POMS 2022, CIST 2022.
 
-3. Xingchen Xu\*, Lijia Ma\*, and Yong Tan, "How do Peer Awards affect User-generated Content in Online Mental Healthcare Communities? An Empirical Investigation."
-    - Preliminary version appeared in POMS 2022.
-
-4. Xingchen Xu, Yifan Yu, Wendao Xue, and Yong Tan, "Algorithmic Bias in Online Game Matchmaking."
-    - Preliminary version appeared in INFORMS 2022.
-
-5. Kyungmin Park, Xingchen Xu, Stephanie Lee, and Yong Tan, "Student Social Engagement in Online Education: An Empirical Study."
+3. Kyungmin Park, Xingchen Xu, Stephanie Lee, and Yong Tan, "Student Social Engagement in Online Education: An Empirical Study."
     - Preliminary version appeared in CIST 2022.
 
-6. "Learn Your League in Online Dating." (with two coauthors)
+4. "Learn Your League in Online Dating." (with two coauthors)
+
+5. Xingchen Xu\*, Lijia Ma\*, and Yong Tan, "How do Peer Awards affect User-generated Content in Online Mental Healthcare Communities? An Empirical Investigation."
+    - Preliminary version appeared in POMS 2022.
+
+6. Xingchen Xu, Yifan Yu, Wendao Xue, and Yong Tan, "Algorithmic Bias in Online Game Matchmaking."
+    - Preliminary version appeared in INFORMS 2022.
 
 7. "Rescource Subscription Strategy." (with three coauthors)
 
