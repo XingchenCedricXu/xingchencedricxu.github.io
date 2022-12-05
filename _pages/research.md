@@ -26,6 +26,6 @@ author_profile: true
 
 7. "Rescource Subscription Strategy." (with three coauthors)
 
-8. "Algorithmic Pricing with Stragetic Users." (with two coauthors)
+8. "Algorithmic Pricing with Strategic Users." (with two coauthors)
 
 9. "Disclosure Policy and UGC." (with three coauthors)
