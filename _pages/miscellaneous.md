@@ -7,7 +7,7 @@ author_profile: true
 ## Hobby
 In my spare time, I enjoy coding, reading, and watching TV series. 
 -	I am an enthusiastic coder. I use Fortran, Java, C(C++, C#), Python, Ruby, Julia, R, Stata, JavaScript, SPSS, SmartPLS, SQL... (Some tastes: tab > spaces; Vim > Emacs; Torch > TensorFlow)
--	I have a special interest in popular science books, such as *Poor Economics*, *Nudge*, *Freakonomics*, *Who Gets What--and why*, *Thinking, Fast and Slow*……
+-	I have a special interest in popular science books, such as *Poor Economics*, *Nudge*, *Freakonomics*, *Who Gets What--and why*, *Thinking, Fast and Slow*…… My favorite book is *The Three-body problem*. Myabe Netflix can produce a great TV series based on this novel. Fingers crossed!
 -	I am especially interested in TV series related to Finance ([*Billions*](https://en.wikipedia.org/wiki/Billions_(TV_series))), Science ([*The Big Bang Theory*](https://en.wikipedia.org/wiki/The_Big_Bang_Theory)), Technology ([*Silicon Valley*](https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series))), and Politics ([*Yes, Minister*](https://en.wikipedia.org/wiki/Yes_Minister)).
 
 If you find any interesting coding projects, books, or TV series, please contact me!
