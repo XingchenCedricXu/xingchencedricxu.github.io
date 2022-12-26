@@ -24,6 +24,4 @@ author_profile: true
 6. Xingchen Xu, Yifan Yu, Wendao Xue, and Yong Tan, "Algorithmic Bias in Online Game Matchmaking."
     - Preliminary version appeared in INFORMS 2022.
 
-7. "Rescource Subscription Strategy." (with three coauthors)
-
-8. "Structural Estimation in High Dimensional Settings." (with two coauthors)
+7. "Structural Estimation in High Dimensional Settings." (with two coauthors)
