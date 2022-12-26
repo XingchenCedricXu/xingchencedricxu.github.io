@@ -27,5 +27,3 @@ author_profile: true
 7. "Rescource Subscription Strategy." (with three coauthors)
 
 8. "Structural Estimation in High Dimensional Settings." (with two coauthors)
-
-9. "Disclosure Policy and UGC." (with three coauthors)
