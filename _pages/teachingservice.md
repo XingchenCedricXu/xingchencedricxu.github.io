@@ -14,5 +14,5 @@ author_profile: true
 - IS 410B: Networks and Cybersecurity, 2022 Winter
 
 ## Service Activities
-- Journal Reviewer: Journal of Management Information Systems
+- Journal Reviewer: Production and Operations Management, Journal of Management Information Systems
 - Conference Reviewer: Conference on Information Systems and Technology (CIST)
