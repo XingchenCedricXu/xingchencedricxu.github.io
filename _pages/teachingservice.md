@@ -16,3 +16,10 @@ author_profile: true
 ## Service Activities
 - Journal Reviewer: Production and Operations Management, Journal of Management Information Systems
 - Conference Reviewer: Conference on Information Systems and Technology (CIST)
+
+## For Pre-doctoral Students
+I thoroughly enjoy working with individuals from diverse backgrounds, and I would be more than happy to assist you with your graduate program applications, especially for Ph.D. programs. What matters most to me is motivation and a shared commitment to hard work. 
+
+To ensure that we can dedicate enough time to each project, I limit the number of pre-doctoral students I work with to a maximum of two at any given time. This allows us to spend enough time on something interesting and cultivate our research skills together. 
+
+Please take your time to carefully consider your decision, but also remember that you shouldn't be restricted by your current background since any skill can be cultivated during the project if you are motivated enough.
