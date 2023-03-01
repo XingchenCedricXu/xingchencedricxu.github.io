@@ -19,7 +19,7 @@ author_profile: true
 4. Xingchen Xu\*, Lijia Ma\*, Yong Tan, "Peer Awards and Strategic Behavior: Evidence from an Online Mental Healthcare Communitity."
     - Preliminary version appeared in POMS 2022.
 
-5. Xingchen Xu, Yumei He, Yong Tan,"Learning in Online Dating."
+5. Xingchen Xu, Yumei He, Yong Tan, "Learning in Online Dating."
 
 6. Xingchen Xu, Yifan Yu, Wendao Xue, Yong Tan, "Algorithmic Bias in Online Game Matchmaking."
     - Preliminary version appeared in INFORMS 2022.
