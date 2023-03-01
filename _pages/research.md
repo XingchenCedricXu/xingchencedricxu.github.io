@@ -24,4 +24,4 @@ author_profile: true
 
 7. Xingchen Xu, Uttara Ananthakrishnan, Anjana Susarla, Yong Tan, "Digital Health Literacy and Inequity."
 
-8. Xingchen Xu with two others, "Learn Your League in Online Matching."
+8. Xingchen Xu with two coauthors, "Learn Your League in Online Matching."
