@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Teaching Assistantships at UW
-- IS 460A: Systems Analysis and Design (with Tayfun Keskin), 2023 Spring (scheduled)
+- IS 460A: Systems Analysis and Design (with Tayfun Keskin), 2023 Spring
 - IS 300A (Lab Instructor & TA): Introduction to Information Systems (with Shaosong Ou), 2023 Winter
 - IS 300C (Lab Instructor & TA): Introduction to Information Systems (with Tayfun Keskin), 2022 Fall
 - MSIS 512B: Information Security in a Networked World (with Stephanie Lee), 2022 Fall
@@ -15,7 +15,7 @@ author_profile: true
 
 ## Service Activities
 - Journal Reviewer: Production and Operations Management, Journal of Management Information Systems
-- Conference Reviewer: Conference on Information Systems and Technology (CIST)
+- Conference Reviewer: Conference on Information Systems and Technology (CIST 2022)
 
 ## For Pre-doctoral Students
 I thoroughly enjoy working with individuals from diverse backgrounds, and I would be more than happy to assist you with your graduate program applications, especially for Ph.D. programs. What matters most to me is motivation and a shared commitment to hard work. 
