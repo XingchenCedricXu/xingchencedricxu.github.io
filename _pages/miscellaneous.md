@@ -11,8 +11,6 @@ In my spare time, I enjoy coding, reading, and watching TV series.
 -	I am especially interested in TV series related to finance ([*Billions*](https://en.wikipedia.org/wiki/Billions_(TV_series))), science ([*The Big Bang Theory*](https://en.wikipedia.org/wiki/The_Big_Bang_Theory)), technology ([*Silicon Valley*](https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series))), politics ([*Yes, Minister*](https://en.wikipedia.org/wiki/Yes_Minister)), and healthcare ([*Dopesick*](https://en.wikipedia.org/wiki/Dopesick_(miniseries))).
 -	Trading captivates me as a reflection of human nature through market fluctuations.
 
-If you find any interesting coding projects, books, or TV series, please contact me!
-
 ## Sports
 I'm a runner and a retired taekwondo athlete.
 -	My Personal Best (PB) in 100m is 11.2s.
