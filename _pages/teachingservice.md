@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## Teaching Assistantships at UW
+- MSIS 549: Machine Learning And Artificial Intelligence For Business Applications (with Yi Lu), 2023 Spring
 - IS 460A: Systems Analysis and Design (with Tayfun Keskin), 2023 Spring
 - IS 300A (Lab Instructor & TA): Introduction to Information Systems (with Shaosong Ou), 2023 Winter
 - IS 300C (Lab Instructor & TA): Introduction to Information Systems (with Tayfun Keskin), 2022 Fall
