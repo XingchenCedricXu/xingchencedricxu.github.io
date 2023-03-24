@@ -29,3 +29,5 @@ author_profile: true
 8. Xingchen Xu with two coauthors, "Learn Your League in Online Matching."
 
 9. Xingchen Xu with four coauthors, "Formation of Beauty Preference."
+
+10. Xingchen Xu, Uttara Ananthakrishnan, Yong Tan, "From Reviews to Resumes."
