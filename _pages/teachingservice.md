@@ -4,7 +4,7 @@ permalink: /teachingservice/
 author_profile: true
 ---
 
-## Teaching Assistantships at UW
+## Teaching at UW
 - MSIS 549: Machine Learning And Artificial Intelligence For Business Applications, 2023 Spring
 - IS 460: Systems Analysis and Design, 2023 Spring
 - IS 300 (Lab Instructor & TA): Introduction to Information Systems, 2023 Winter & 2022 Fall (Instructor Evaluation: 4.6/5.0)
