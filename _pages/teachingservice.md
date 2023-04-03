@@ -17,8 +17,8 @@ author_profile: true
 - Conference Reviewer: Conference on Information Systems and Technology (CIST 2022), Pacific Asia Conference on Information Systems (PACIS 2023)
 
 ## For Pre-doctoral Students
-I thoroughly enjoy working with individuals from diverse backgrounds, and I would be more than happy to assist you with your graduate program applications, especially for Ph.D. programs. What matters most to me is motivation and a shared commitment to hard work. 
+I am thrilled to work with individuals from diverse backgrounds and it would be my honor to assist you with your graduate program applications, particularly Ph.D. programs. I also believe that motivation and a shared commitment to hard work are essential.
 
-To ensure that we can dedicate enough time to each project, I limit the number of pre-doctoral students I work with to a maximum of two at any given time. This allows us to spend enough time on something interesting and cultivate our research skills together. 
+To ensure that each project receives the proper attention and focus, I limit the number of pre-doctoral students I work with to a maximum of two at any given time. This approach allows us to explore interesting projects and enhance our research skills in a collaborative environment.
 
-Please take your time to carefully consider your decision, but also remember that you shouldn't be restricted by your current background since any skill can be cultivated during the project if you are motivated enough.
+I kindly encourage you to take the time to reflect on your decision, and I would like to assure you that your background should not be a hindrance, as motivation and dedication are key factors in cultivating any skill.
