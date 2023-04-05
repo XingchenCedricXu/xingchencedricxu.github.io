@@ -1,6 +1,6 @@
 ---
 title: "IS300 Text Feedback"
-permalink: /is300_text_feedbakc/
+permalink: /is300_text_feedback/
 author_profile: true
 ---
 
