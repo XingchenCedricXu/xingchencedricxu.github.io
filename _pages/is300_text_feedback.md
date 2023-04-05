@@ -4,4 +4,4 @@ permalink: /is300_text_feedback/
 author_profile: true
 ---
 
-<img src="/images/IS300_evaluation.png" width="500">
+<img src="/images/IS300_evaluation.png" width="1000">
