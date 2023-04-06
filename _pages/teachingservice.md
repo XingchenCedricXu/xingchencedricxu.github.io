@@ -8,7 +8,6 @@ author_profile: true
 - MSIS 549 (TA) Machine Learning And Artificial Intelligence For Business Applications, 2022-2023
 - IS 460 (TA) Systems Analysis and Design, 2022-2023
 - IS 300 (Lab Instructor) Introduction to Information Systems, 2022-2023 ([Lab Evaluation: 4.6/5.0](/is300_text_feedback/))
-)
 - MSIS 512 (TA) Information Security in a Networked World, 2022-2023
 - IS 445 (TA) Database Management, 2021-2022
 - IS 410 (TA) Networks and Cybersecurity, 2021-2022
