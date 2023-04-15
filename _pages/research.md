@@ -24,7 +24,7 @@ author_profile: true
 7. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Peer Awards and Strategic Behavior: Evidence from an Online Mental Healthcare Communitity."
     - Preliminary version appeared in POMS 2022.
 
-8. Xingchen Xu with four coauthors, "Formation of Beauty Preference."
+8. Yunxuan Yang, Xingchen Xu, Lijia Ma, Yong Tan, "Strategies of the Video Platform."
 
 9. Yumei He, Xingchen Xu, Ni Huang, Yili Hong, De Liu, ["Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740782)
     - Preliminary version appeared in CODE 2020, WISE 2020, HCISS 2021, DSI 2021, CSWIM 2021, ICIS 2021.
