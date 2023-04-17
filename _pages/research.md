@@ -19,7 +19,7 @@ author_profile: true
 5. Xingchen Xu, Yifan Yu, Wendao Xue, Yong Tan, "Algorithmic Bias in Online Game Matchmaking."
     - Preliminary version appeared in INFORMS 2022.
 
-6. Xingchen Xu with two coauthors, "Learn Your League in Online Matching."
+6. Xingchen Xu with four coauthors, "Chronic Cognitive Erosion."
 
 7. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Peer Awards and Strategic Behavior: Evidence from an Online Mental Healthcare Communitity."
     - Preliminary version appeared in POMS 2022.
