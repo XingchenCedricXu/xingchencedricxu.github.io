@@ -14,12 +14,12 @@ author_profile: true
 
 3. Xingchen Xu with four coauthors, "Matching Recommendations."
 
-4. Xingchen Xu, Uttara Ananthakrishnan, Yong Tan, "From Reviews to Resumes."
+4. Xingchen Xu with four coauthors, "Chronic Cognitive Erosion."
 
-5. Xingchen Xu, Yifan Yu, Wendao Xue, Yong Tan, "Algorithmic Bias in Online Game Matchmaking."
+5. Xingchen Xu, Uttara Ananthakrishnan, Yong Tan, "From Reviews to Resumes."
+
+6. Xingchen Xu, Yifan Yu, Wendao Xue, Yong Tan, "Algorithmic Bias in Online Game Matchmaking."
     - Preliminary version appeared in INFORMS 2022.
-
-6. Xingchen Xu with four coauthors, "Chronic Cognitive Erosion."
 
 7. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Peer Awards and Strategic Behavior: Evidence from an Online Mental Healthcare Communitity."
     - Preliminary version appeared in POMS 2022.
