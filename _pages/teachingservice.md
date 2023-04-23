@@ -4,6 +4,10 @@ permalink: /teachingservice/
 author_profile: true
 ---
 
+"The best teacher is the one who suggests rather than dogmatizes, and inspires his listener with the wish to teach himself." - Edward G. Bulwer-Lytton
+
+At the moment, I do not excel in teaching, but I am eager to learn how to inspire the students when I have the opportunity to instruct a course myself.
+
 ## Teaching at UW
 - MSIS 549 (TA) Machine Learning And Artificial Intelligence For Business Applications, 2022-2023
 - IS 460 (TA) Systems Analysis and Design, 2022-2023
