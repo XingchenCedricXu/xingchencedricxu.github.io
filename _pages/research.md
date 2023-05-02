@@ -33,4 +33,4 @@ author_profile: true
     - Preliminary version appears in CODE 2020, WISE 2020, HCISS 2021, DSI 2021, CSWIM 2021, ICIS 2021.
 
 10. Kyungmin Park, Xingchen Xu, Stephanie Lee, Yong Tan, "Student Social Engagement in Online Learning Communities: An Empirical Study."
-    - Preliminary version appeared in CIST 2022.
+    - Preliminary version appears in CIST 2022.
