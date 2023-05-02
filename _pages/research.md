@@ -23,7 +23,7 @@ author_profile: true
 6. Xingchen Xu, Qili Wang, Yizhi Liu, Liangfei Qiu, "Social Attention as a Reference Point: Evidence from a Field Experiment."
     - Preliminary version appears in POMS 2022, CIST 2022.
 
-7. Yunxuan (Michael) Yang, Xingchen Xu, Lijia Ma, Yong Tan, "Love-Hate Tango."
+7. Yunxuan Yang, Xingchen Xu, Lijia Ma, Yong Tan, "Love-Hate Tango."
     - Preliminary version appears in INFORMS 2023.
 
 8. Yizhi Liu, Qili Wang, Xingchen Xu, Liangfei Qiu, "GeoTagged Echoes."
