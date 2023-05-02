@@ -17,7 +17,7 @@ author_profile: true
 4. Xingchen Xu, Yifan Yu, Wendao Xue, Yong Tan, "Algorithmic Bias in Game Matchmaking."
     - Preliminary version appears in INFORMS 2022.
 
-5. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Peer Awards and Strategic Behavior: Evidence from an Online Mental Healthcare Communitity."
+5. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Chasing Accolades."
     - Preliminary version appears in POMS 2022.
 
 6. Xingchen Xu, Qili Wang, Yizhi Liu, Liangfei Qiu, "Social Attention as a Reference Point: Evidence from a Field Experiment."
