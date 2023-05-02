@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Recent Works in Business
+## Some Recent Works
 (\* stands for equal contribution and authors are listed alphabetically)
 
 1. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "The Web’s Great Conversation."
