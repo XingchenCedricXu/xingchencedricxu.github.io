@@ -23,14 +23,14 @@ author_profile: true
 6. Yunxuan Yang, Xingchen Xu, Lijia Ma, Yong Tan, "Love-Hate Tango."
     - Preliminary version appears in INFORMS 2023.
 
-7. Kyungmin Park, Xingchen Xu, Stephanie Lee, Yong Tan, "Student Social Engagement in Online Learning Communities: An Empirical Study."
+7. Xingchen Xu, Qili Wang, Yizhi Liu, Liangfei Qiu, "Social Attention as a Reference Point: Evidence from a Field Experiment."
+    - Preliminary version appears in POMS 2022, CIST 2022.
+
+8. Kyungmin Park, Xingchen Xu, Stephanie Lee, Yong Tan, "Student Social Engagement in Online Learning Communities: An Empirical Study."
     - Preliminary version appears in CIST 2022.
 
-8. Yizhi Liu, Qili Wang, Xingchen Xu, Liangfei Qiu, "GeoTagged Echoes."
+9. Yizhi Liu, Qili Wang, Xingchen Xu, Liangfei Qiu, "GeoTagged Echoes."
     - Preliminary version appears in INFORMS 2023.
-
-9. Xingchen Xu, Qili Wang, Yizhi Liu, Liangfei Qiu, "Social Attention as a Reference Point: Evidence from a Field Experiment."
-    - Preliminary version appears in POMS 2022, CIST 2022.
 
 10. Yumei He, Xingchen Xu, Ni Huang, Yili Hong, De Liu, ["Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740782)
     - Preliminary version appears in CODE 2020, WISE 2020, HCISS 2021, DSI 2021, CSWIM 2021, ICIS 2021.
