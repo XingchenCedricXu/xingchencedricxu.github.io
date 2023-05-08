@@ -20,7 +20,7 @@ author_profile: true
 5. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Chasing Accolades."
     - Preliminary version appears in POMS 2022.
 
-6. Yunxuan Yang, Xingchen Xu, Lijia Ma, Yong Tan, "Love-Hate Tango."
+6. Xingchen Xu, Yunxuan Yang, Lijia Ma, Yong Tan, "Love-Hate Tango."
     - Preliminary version appears in INFORMS 2023.
 
 7. Xingchen Xu, Qili Wang, Yizhi Liu, Liangfei Qiu, "Social Attention as a Reference Point: Evidence from a Field Experiment."
