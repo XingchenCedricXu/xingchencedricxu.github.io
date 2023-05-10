@@ -6,8 +6,8 @@ author_profile: true
 
 "The best teacher is the one who suggests rather than dogmatizes, and inspires his listener with the wish to teach himself." - Edward G. Bulwer-Lytton
 
-## Teaching at UW
-- IS 300 (Lab Instructor) Introduction to Information Systems, 2022-2023 (Lab Evaluation: 4.8/5.0)
+## Teaching at UW (Lab Instructor)
+- IS 300: Introduction to Information Systems, 2022-2023 (Lab Evaluation: 4.8/5.0)
 
 
 ## Teaching Assistant
