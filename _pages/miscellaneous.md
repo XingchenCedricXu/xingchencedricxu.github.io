@@ -4,8 +4,10 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
+"You're not your résumé." - (heard this inspiring sentence from Charles M. C. Lee)
+
 ## Hobby
-In my spare time, I enjoy coding, reading, trading, and watching TV series. 
+I feel excited about what I am doing every day! In my spare time, I also enjoy coding (checking repositories with elegant codes), reading, trading, and watching TV series. 
 -	I am an enthusiastic coder. I use Fortran, Java, C(C++, C#), Python, Ruby, Julia, JavaScript, R, Stan, Stata, Bash, SPSS, SmartPLS, SQL... It's amazing to observe that AI has the ability to handle some of my routine coding tasks.
 -	I love reading. I hope one day I can also write a popular science book like *Poor Economics*, *Nudge*, *Freakonomics*, *Who Gets What--and why*, *Thinking, Fast and Slow*…… My favorite book is *The Three-body problem*!
 -	Trading captivates me as a reflection of human nature through market fluctuations.
