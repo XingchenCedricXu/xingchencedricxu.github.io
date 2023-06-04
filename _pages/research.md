@@ -15,7 +15,7 @@ author_profile: true
 3. Xingchen Xu with four coauthors, "A Painter and a Matchmaker Walk into a Bar."
     - Preliminary version appears in INFORMS 2023.
 
-4. Xingchen Xu, Yifan Yu, Wendao Xue, Yong Tan, "Algorithmic Bias in Game Matchmaking."
+4. Xingchen Xu, Yifan Yu, Wendao Xue, Yong Tan, "Algorithmic Bias in Matchmaking."
     - Preliminary version appears in INFORMS 2022.
 
 5. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Chasing Accolades."
