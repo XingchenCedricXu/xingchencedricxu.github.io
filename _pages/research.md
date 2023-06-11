@@ -9,7 +9,7 @@ author_profile: true
 
 1. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "The Web’s Great Conversation."
 
-2. Xingchen Xu, Yifan Yu, Wendao Xue, Yong Tan, Ling Jia, "Digital Sculptors."
+2. Xingchen Xu, Yifan Yu, Wendao Xue, Ling Jia, Yong Tan, "Digital Sculptors."
     - Preliminary version appears in INFORMS 2023 (Phoenix).
 
 3. Xingchen Xu with four coauthors, "A Painter and a Matchmaker Walk into a Bar."
