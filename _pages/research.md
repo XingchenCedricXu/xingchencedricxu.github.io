@@ -34,5 +34,5 @@ author_profile: true
 9. Yizhi Liu, Qili Wang, Xingchen Xu, Liangfei Qiu, "GeoTagged Echoes."
     - Preliminary version appears in INFORMS 2023 (Phoenix).
 
-10. Yumei He, Xingchen Xu, Ni Huang, Yili Hong, De Liu, ["Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740782)
+10. Yumei He, Xingchen Xu, Ni Huang, Yili Hong, De Liu, "Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context."
     - Preliminary version appears in CODE 2020 (MIT), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).
