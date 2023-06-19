@@ -12,9 +12,10 @@ author_profile: true
 
 ## Teaching Assistant
 - MSIS 549: Machine Learning And Artificial Intelligence For Business Applications, 2022-2023
-- IS 460: Systems Analysis and Design, 2022-2023
 - MSIS 512: Information Security in a Networked World, 2022-2023
-- IS 445: Database Management, 2021-2022
+- IS 460: Systems Analysis and Design, 2022-2023
+- IS 451: Business Data Analytics, 2023-2024(scheduled)
+- IS 445: Database Management, 2021-2022, 2023-2024(scheduled)
 - IS 410: Networks and Cybersecurity, 2021-2022
 
 ## Service Activities
