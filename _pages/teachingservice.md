@@ -20,7 +20,7 @@ author_profile: true
 
 ## Service Activities
 - Journal Reviewer: Production and Operations Management, Journal of Management Information Systems
-- Conference Reviewer: Conference on Information Systems and Technology (CIST 2022), Pacific Asia Conference on Information Systems (PACIS 2023), International Conference on Information Systems (ICIS 2023)
+- Conference Reviewer: Conference on Information Systems and Technology (CIST 2022, 2023), International Conference on Information Systems (ICIS 2023), Pacific Asia Conference on Information Systems (PACIS 2023)
 
 ## For Pre-doctoral Students
 I am thrilled to work with individuals from diverse backgrounds and it would be my honor to assist you with your graduate program applications, particularly Ph.D. programs. I also believe that motivation and a shared commitment to hard work are essential.
