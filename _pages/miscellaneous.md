@@ -9,7 +9,7 @@ author_profile: true
 ## Hobby
 I feel excited about what I am doing every day! In my spare time, I also enjoy coding (checking repositories with elegant codes), reading, trading, and watching TV series. 
 -	I am an enthusiastic coder. I use Fortran, Java, C(C++, C#), Python, Ruby, Julia, JavaScript, R, Stan, Stata, Bash, SPSS, SmartPLS, SQL... It's amazing to observe that AI has the ability to handle some of my routine coding tasks.
--	I love reading. I hope one day I can also write a popular science book like *Poor Economics*, *Nudge*, *Freakonomics*, *Who Gets What--and why*, *Thinking, Fast and Slow*…… My favorite book is *The Three-body problem*!
+- I enjoy reading various genres, including philosophy, economics, biography, and sci-fi. Someday, I hope to write books that appeal to both academic and general readers. My favorite book is [*The Three-body Problem*](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel))!
 -	Trading captivates me as a reflection of human nature through market fluctuations.
 -	I am especially interested in TV series related to finance ([*Billions*](https://en.wikipedia.org/wiki/Billions_(TV_series))), science ([*The Big Bang Theory*](https://en.wikipedia.org/wiki/The_Big_Bang_Theory)), technology ([*Silicon Valley*](https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series))), politics ([*Yes, Minister*](https://en.wikipedia.org/wiki/Yes_Minister)), and healthcare ([*Dopesick*](https://en.wikipedia.org/wiki/Dopesick_(miniseries))).
 
