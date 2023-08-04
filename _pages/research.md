@@ -9,7 +9,7 @@ author_profile: true
 
 1. Xingchen Xu, Stephanie Lee, Yong Tan, "Algorithmic Pricing."
 
-2. Jin Liu\*, Xingchen Xu\*, Yongjun Li, Yong Tan, "Generate the Future of Work."
+2. Jin Liu\*, Xingchen Xu\*, Yongjun Li, Yong Tan, "Generate the Future of Work through AI."
     - Preliminary version appears in Wharton Analytics 2023 (San Francisco).
 
 3. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "The Web’s Great Conversation."
