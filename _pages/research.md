@@ -28,7 +28,7 @@ author_profile: true
     - Preliminary version appears in POMS 2022 (Virtual).
 
 8. Xingchen Xu, Yunxuan Yang, Lijia Ma, Yong Tan, "Love-Hate Tango."
-    - Preliminary version appears in INFORMS 2023 (Phoenix).
+    - Preliminary version appears in INFORMS 2023 (Phoenix), CIST 2023 (Phoenix).
 
 9. Xingchen Xu, Qili Wang, Yizhi Liu, Liangfei Qiu, "Social Attention as a Reference Point: Evidence from a Field Experiment."
     - Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indiana), Blockchain conference 2023 (Miami).
