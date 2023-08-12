@@ -31,7 +31,7 @@ author_profile: true
     - Preliminary version appears in INFORMS 2023 (Phoenix), CIST 2023 (Phoenix).
 
 9. Xingchen Xu, Qili Wang, Yizhi Liu, Liangfei Qiu, "Social Attention as a Reference Point: Evidence from a Field Experiment."
-    - Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indiana), Blockchain conference 2023 (Miami).
+    - Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indiana), BBTC 2023 (Miami).
 
 10. Kyungmin Park, Xingchen Xu, Stephanie Lee, Yong Tan, "Enhancing Students' Social Engagement."
     - Preliminary version appears in CIST 2022 (Indiana).
