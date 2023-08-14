@@ -11,7 +11,7 @@ author_profile: true
 
 2. Jin Liu\*, Xingchen Xu\*, Yongjun Li, Yong Tan, "Generate the Future of Work through AI."
     - Preliminary version appears in Wharton Analytics 2023 (San Francisco).
-    - Top 10 Downloaded Papers on SSRN Work & Labor Section (6/14/2023 - 8/14/2023).
+    - Top 10 Downloaded Papers on SSRN Work & Labor Section (June 2023 - August 2023).
 
 3. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "The Web’s Great Conversation."
     - Preliminary version appears in INFORMS 2023 (Phoenix), Wharton Analytics 2023 (San Francisco).
