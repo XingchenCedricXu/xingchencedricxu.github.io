@@ -11,6 +11,7 @@ author_profile: true
 
 2. Jin Liu\*, Xingchen Xu\*, Yongjun Li, Yong Tan, "Generate the Future of Work through AI."
     - Preliminary version appears in Wharton Analytics 2023 (San Francisco).
+    - Listed on Top 10 Downloaded Papers in the past 60 days on SSRN (Work & Labor) as of 8/14/2023, 11 days after being posted online.
 
 3. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "The Web’s Great Conversation."
     - Preliminary version appears in INFORMS 2023 (Phoenix), Wharton Analytics 2023 (San Francisco).
@@ -41,3 +42,4 @@ author_profile: true
 
 12. Yumei He, Xingchen Xu, Ni Huang, Yili Hong, De Liu, "Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating."
     - Preliminary version appears in CODE 2020 (MIT), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).
+    - ICIS Best Paper in IS Design, Development and Project Management, 2021
