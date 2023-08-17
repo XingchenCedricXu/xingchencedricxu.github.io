@@ -13,7 +13,7 @@ author_profile: true
     - Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco).
 
 3. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "The Web’s Great Conversation."
-    - Preliminary version appears in INFORMS 2023 (Phoenix), Biz&GenAI 2023 (Wharton@San Francisco).
+    - Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix).
 
 4. Xingchen Xu, Yifan Yu, Wendao Xue, Ling Jia, Yong Tan, "Digital Sculptors."
     - Preliminary version appears in INFORMS 2023 (Phoenix).
