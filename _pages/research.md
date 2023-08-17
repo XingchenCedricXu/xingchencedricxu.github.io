@@ -10,10 +10,10 @@ author_profile: true
 1. Xingchen Xu, Stephanie Lee, Yong Tan, "Algorithmic Pricing."
 
 2. Jin Liu\*, Xingchen Xu\*, Yongjun Li, Yong Tan, "Generate the Future of Work through AI."
-    - Preliminary version appears in AI@Wharton 2023 (San Francisco).
+    - Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco).
 
 3. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "The Web’s Great Conversation."
-    - Preliminary version appears in INFORMS 2023 (Phoenix), AI@Wharton 2023 (San Francisco).
+    - Preliminary version appears in INFORMS 2023 (Phoenix), Biz&GenAI 2023 (Wharton@San Francisco).
 
 4. Xingchen Xu, Yifan Yu, Wendao Xue, Ling Jia, Yong Tan, "Digital Sculptors."
     - Preliminary version appears in INFORMS 2023 (Phoenix).
