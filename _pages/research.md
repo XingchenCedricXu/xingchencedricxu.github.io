@@ -7,7 +7,7 @@ author_profile: true
 ## Part of Recent Works
 (\* stands for equal contribution and authors are listed alphabetically)
 
-1. Xingchen Xu, Stephanie Lee, Yong Tan, "Algorithmic Pricing."
+1. Xingchen Xu, Stephanie Lee, Yong Tan, "Algorithmic Collusion or Competition."
     - Preliminary version appears in WDS 2023 (Phoenix).
 
 3. Jin Liu\*, Xingchen Xu\*, Yongjun Li, Yong Tan, "Generate the Future of Work through AI."
