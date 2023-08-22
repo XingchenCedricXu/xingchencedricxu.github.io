@@ -20,6 +20,7 @@ author_profile: true
 
 ## Service Activities
 - Journal Reviewer: Production and Operations Management, Journal of Management Information Systems
+- Conference Program Committee Member: INFORMS Workshop on Data Science (WDS 2023)
 - Conference Reviewer: Conference on Information Systems and Technology (CIST 2022, 2023), International Conference on Information Systems (ICIS 2023), INFORMS Workshop on Data Science (WDS 2023), Pacific Asia Conference on Information Systems (PACIS 2023)
 
 ## For Pre-doctoral Students
