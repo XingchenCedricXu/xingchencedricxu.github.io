@@ -14,7 +14,7 @@ author_profile: true
 - MSIS 549: Machine Learning And Artificial Intelligence For Business Applications, 2022-2023
 - MSIS 512: Information Security in a Networked World, 2022-2023
 - IS 460: Systems Analysis and Design, 2022-2023
-- IS 451: Business Data Analytics (including material preparation and teaching review sessions), 2023-2024
+- IS 451: Business Data Analytics (including material preparation and review sessions), 2023-2024
 - IS 445: Database Management, 2021-2022, 2023-2024
 - IS 410: Networks and Cybersecurity, 2021-2022
 
