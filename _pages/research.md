@@ -19,7 +19,7 @@ author_profile: true
 5. Xingchen Xu, Yifan Yu, Wendao Xue, Ling Jia, Yong Tan, "Digital Sculptors."
     - Preliminary version appears in INFORMS 2023 (Phoenix).
 
-6. Xingchen Xu with four coauthors, "A Painter and a Matchmaker Walk into a Bar."
+6. Xingchen Xu with four coauthors, "Game of AI."
     - Preliminary version appears in INFORMS 2023 (Phoenix).
 
 7. Xingchen Xu, Yifan Yu, Wendao Xue, Yong Tan, "Algorithmic Bias in Matchmaking."
