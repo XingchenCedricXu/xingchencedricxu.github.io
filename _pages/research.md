@@ -11,7 +11,7 @@ author_profile: true
     - Preliminary version appears in WDS 2023 (Phoenix).
 
 3. Jin Liu\*, Xingchen Xu\*, Yongjun Li, Yong Tan, "Generate the Future of Work through AI."
-    - Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), WDS 2023 (Phoenix).
+    - Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), WDS 2023 (Phoenix), WITS 2023 (Hyderabad, India).
 
 4. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "The Web’s Great Conversation."
     - Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix).
