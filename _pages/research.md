@@ -22,19 +22,19 @@ author_profile: true
 6. Xingchen Xu with four coauthors, "AI Dominance."
 
 7. Xingchen Xu, Yifan Yu, Wendao Xue, Yong Tan, "Algorithmic Bias in Matchmaking."
-    - *Preliminary version appears in INFORMS 2022 (Indiana).*
+    - *Preliminary version appears in INFORMS 2022 (Indianapolis).*
 
 8. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Chasing Accolades."
     - *Preliminary version appears in POMS 2022 (Virtual).*
 
 9. Kyungmin Park, Xingchen Xu, Stephanie Lee, Yong Tan, "Enhancing Students' Social Engagement."
-    - *Preliminary version appears in CIST 2022 (Indiana).*
+    - *Preliminary version appears in CIST 2022 (Indianapolis).*
 
 10. Xingchen Xu, Yunxuan Yang, Lijia Ma, Yong Tan, "Love-Hate Tango."
     - *Preliminary version appears in CIST 2023 (Phoenix), INFORMS 2023 (Phoenix).*
 
 11. Xingchen Xu, Qili Wang, Yizhi Liu, Liangfei Qiu, "Social Attention as a Reference Point: Evidence from a Field Experiment."
-    - *Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indiana), BBTC 2023 (Miami).*
+    - *Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indianapolis), BBTC 2023 (Miami).*
 
 12. Yizhi Liu, Qili Wang, Xingchen Xu, Liangfei Qiu, "GeoTagged Echoes."
     - *Preliminary version appears in INFORMS 2023 (Phoenix).*
