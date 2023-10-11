@@ -19,25 +19,23 @@ author_profile: true
 5. Xingchen Xu, Yifan Yu, Wendao Xue, Ling Jia, Yong Tan, "Digital Sculptors."
     - *Preliminary version appears in INFORMS 2023 (Phoenix).*
 
-6. Xingchen Xu with four coauthors, "AI Dominance."
-
-7. Xingchen Xu, Yifan Yu, Wendao Xue, Yong Tan, "Algorithmic Bias in Matchmaking."
+6. Xingchen Xu, Yifan Yu, Wendao Xue, Yong Tan, "Algorithmic Bias in Matchmaking."
     - *Preliminary version appears in INFORMS 2022 (Indianapolis).*
 
-8. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Chasing Accolades."
+7. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Chasing Accolades."
     - *Preliminary version appears in POMS 2022 (Virtual).*
 
-9. Kyungmin Park, Xingchen Xu, Stephanie Lee, Yong Tan, "Enhancing Students' Social Engagement."
+8. Kyungmin Park, Xingchen Xu, Stephanie Lee, Yong Tan, "Enhancing Students' Social Engagement."
     - *Preliminary version appears in CIST 2022 (Indianapolis).*
 
-10. Xingchen Xu, Yunxuan Yang, Lijia Ma, Yong Tan, "Love-Hate Tango."
+9. Xingchen Xu, Yunxuan Yang, Lijia Ma, Yong Tan, "Love-Hate Tango."
     - *Preliminary version appears in CIST 2023 (Phoenix), INFORMS 2023 (Phoenix).*
 
-11. Xingchen Xu, Qili Wang, Yizhi Liu, Liangfei Qiu, "Social Attention as a Reference Point: Evidence from a Field Experiment."
+10. Xingchen Xu, Qili Wang, Yizhi Liu, Liangfei Qiu, "Social Attention as a Reference Point: Evidence from a Field Experiment."
     - *Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indianapolis), BBTC 2023 (Miami).*
 
-12. Yizhi Liu, Qili Wang, Xingchen Xu, Liangfei Qiu, "GeoTagged Echoes."
+11. Yizhi Liu, Qili Wang, Xingchen Xu, Liangfei Qiu, "GeoTagged Echoes."
     - *Preliminary version appears in INFORMS 2023 (Phoenix).*
 
-13. Yumei He, Xingchen Xu, Ni Huang, Yili Hong, De Liu, "Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating."
+12. Yumei He, Xingchen Xu, Ni Huang, Yili Hong, De Liu, "Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating."
     - *Preliminary version appears in CODE 2020 (MIT), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).*
