@@ -1,9 +1,10 @@
 ---
-title: "Awards"
+title: "Awards and Grants"
 permalink: /awards/
 author_profile: true
 ---
 
+- Informs WDS Student Scholarship (*2), 2023
 - Evert McCabe Endowed Fellowship Program in Private Enterprise, 2023
 - Boeing Fellowship in Business, 2022
 - ICIS Best Paper in IS Design, Development and Project Management, 2021
