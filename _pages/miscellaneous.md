@@ -4,8 +4,6 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-*"You're not your résumé." - Charles M. C. Lee*
-
 ## Hobby
 I feel excited about what I am doing every day! In my spare time, I also enjoy coding (checking repositories with elegant codes), reading, trading, and watching TV series. 
 -	I am an enthusiastic coder. I use Fortran, Java, C(C++, C#), Python, Ruby, Julia, JavaScript, R, Stan, Stata, Bash, SPSS, SmartPLS, SQL... It's amazing to observe that AI has the ability to handle some of my routine coding tasks.
@@ -17,5 +15,7 @@ I feel excited about what I am doing every day! In my spare time, I also enjoy c
 ## Sports
 I'm a runner and a retired taekwondo athlete.
 -	My Personal Best (PB) in 100m is 11.2s.
--	I won a silver medal (taekwondo: 53kg male) in a city-level professional sports meet (one step away from Zhejiang Sports Team).
+-	I won a silver medal (taekwondo: 53kg male) in a city-level professional sports meet.
 -	I also finished a Road Cycling around Qinghai Lake (360 kilometers) in four days.
+
+*"You're not your résumé." - Charles M. C. Lee*
