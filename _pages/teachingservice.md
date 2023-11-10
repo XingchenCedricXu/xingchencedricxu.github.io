@@ -4,8 +4,6 @@ permalink: /teachingservice/
 author_profile: true
 ---
 
-*"The best teacher is the one who suggests rather than dogmatizes, and inspires his listener with the wish to teach himself." - Edward G. Bulwer-Lytton*
-
 ## Teaching at UW (Lab Instructor)
 - IS 300: Introduction to Information Systems, 2022-2023 (Lab Evaluation: 4.8/5.0)
 
@@ -29,3 +27,5 @@ I am thrilled to work with individuals from diverse backgrounds and it would be 
 To ensure that each project receives the proper attention and focus, I limit the number of pre-doctoral students I work with to a maximum of two at any given time. This approach allows us to explore interesting projects and enhance our research skills in a collaborative environment.
 
 I kindly encourage you to take the time to reflect on your decision, and I would like to assure you that your background should not be a hindrance, as motivation and dedication are key factors in cultivating any skill.
+
+*"The best teacher is the one who suggests rather than dogmatizes, and inspires his listener with the wish to teach himself." - Edward G. Bulwer-Lytton*
