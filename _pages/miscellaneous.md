@@ -4,7 +4,7 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-"You're not your résumé." - Charles M. C. Lee
+*"You're not your résumé." - Charles M. C. Lee*
 
 ## Hobby
 I feel excited about what I am doing every day! In my spare time, I also enjoy coding (checking repositories with elegant codes), reading, trading, and watching TV series. 
