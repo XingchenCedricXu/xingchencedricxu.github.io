@@ -38,4 +38,4 @@ author_profile: true
     - *Preliminary version appears in INFORMS 2023 (Phoenix).*
 
 12. Yumei He, Xingchen Xu, Ni Huang, Yili Hong, De Liu, "Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating."
-    - *Preliminary version appears in CODE 2020 (MIT), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).*
+    - *Preliminary version appears in CODE 2020 (MIT@Boston), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).*
