@@ -19,3 +19,5 @@ I'm a runner and a retired taekwondo athlete.
 -	I also finished a Road Cycling around Qinghai Lake (360 kilometers) in four days.
 
 *"You're not your résumé." - Charles M. C. Lee*
+
+*"I have been a scientist, but in many sciences. I have explored mazes, but they do not connect into a single maze. My aspirations dod not extend to achieving a single consistency in my life." - Herbert A. Simon*
