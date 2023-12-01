@@ -29,8 +29,6 @@ To ensure that each project receives the proper attention and focus, I limit the
 I kindly encourage you to take the time to reflect on your decision, and I would like to assure you that your background should not be a hindrance, as motivation and dedication are key factors in cultivating any skill.
 
 ## Teaching and Mentoring Philosophy from Herbert A. Simon
-*"Teaching is not entertainment, but it is unlikely to be successful unless it is entertaining (the more respectable word is interesting.)"*
+*1. "Teaching is not entertainment, but it is unlikely to be successful unless it is entertaining (the more respectable word is interesting.)"*
 
-*"Pick a research problem that is important (so that it will matter if it is solved), but one for which they have a secret weapon that gives some prospect of success."*
-
-*"One of the first rules of science is if somebody delivers a secret weapon to you, you better use it."*
+*2(a). "Pick a research problem that is important (so that it will matter if it is solved), but one for which they have a secret weapon that gives some prospect of success." 2(b). "One of the first rules of science is if somebody delivers a secret weapon to you, you better use it."*
