@@ -31,4 +31,6 @@ I kindly encourage you to take the time to reflect on your decision, and I would
 ## Teaching and Mentoring Philosophy from Herbert A. Simon
 *1. "Teaching is not entertainment, but it is unlikely to be successful unless it is entertaining (the more respectable word is interesting.)"*
 
-*2(a). "Pick a research problem that is important (so that it will matter if it is solved), but one for which they have a secret weapon that gives some prospect of success." 2(b). "One of the first rules of science is if somebody delivers a secret weapon to you, you better use it."*
+*2(a). "I advise my graduate students to pick a research problem that is important (so that it will matter if it is solved), but one for which they have a secret weapon that gives some prospect of success."*
+
+*2(b). "One of the first rules of science is if somebody delivers a secret weapon to you, you better use it."*
