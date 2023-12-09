@@ -4,7 +4,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-- WITS Best Paper Award Nominee, 2023
+- WITS Best Paper Award Finalist, 2023
 - Informs WDS Student Scholarship (*2), 2023
 - Evert McCabe Endowed Fellowship Program in Private Enterprise, 2023
 - Boeing Fellowship in Business, 2022
