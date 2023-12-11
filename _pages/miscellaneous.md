@@ -18,6 +18,10 @@ I'm a runner and a retired taekwondo athlete.
 -	I won a silver medal (taekwondo: 53kg male) in a city-level professional sports meet.
 -	I also finished a Road Cycling around Qinghai Lake (360 kilometers) in four days.
 
-*"You're not your résumé." - Charles M. C. Lee*
+*1. "You're not your résumé." - Charles M. C. Lee*
 
-*"I have been a scientist, but in many sciences. I have explored mazes, but they do not connect into a single maze. My aspirations do not extend to achieving a single consistency in my life." - Herbert A. Simon*
+*2. "I have been a scientist, but in many sciences. I have explored mazes, but they do not connect into a single maze. My aspirations do not extend to achieving a single consistency in my life." - Herbert A. Simon*
+
+*3(a). "The present presses automatically on you. The future does not. To attend to the future requires bandwidth, which scarcity taxes." - Scarcity: Why Having Too Little Means So Much*
+
+*3(b). "I would never be able to accomplish anything useful so long as I was worried." - Reminiscences of a Stock Operator*
