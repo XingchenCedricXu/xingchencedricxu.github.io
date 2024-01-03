@@ -4,9 +4,9 @@ permalink: /teachingservice/
 author_profile: true
 ---
 
-## Teaching at UW (Lab Instructor)
-- IS 300: Introduction to Information Systems, 2022-2023 (Lab Evaluation: 4.8/5.0)
-- IS 451: Business Data Analytics, 2023-2024 (Review Session Evaluation: 4.8/5.0)
+## Teaching at UW
+- IS 451 (Review Session): Business Data Analytics, 2023-2024 (Evaluation: 4.8/5.0)
+- IS 300 (Lab Session): Introduction to Information Systems, 2022-2023 (Evaluation: 4.8/5.0)
 
 ## Teaching Assistant
 - MSIS 549: Machine Learning & Artificial Intelligence For Business Applications, 2022-2023
