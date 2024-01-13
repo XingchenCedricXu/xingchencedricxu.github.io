@@ -15,7 +15,7 @@ author_profile: true
     - *WITS Best Paper Runner Up, 2023.*
 
 4. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "The Web’s Great Conversation."
-    - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix).*
+    - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
 
 5. Xingchen Xu, Yifan Yu, Wendao Xue, Ling Jia, Yong Tan, "Digital Sculptors."
     - *Preliminary version appears in INFORMS 2023 (Phoenix).*
