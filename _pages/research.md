@@ -11,8 +11,8 @@ author_profile: true
     - *Preliminary version appears in WDS 2023 (Phoenix).*
 
 3. Jin Liu\*, Xingchen Xu\*, Yongjun Li, Yong Tan, "Generate the Future of Work through AI."
+    - *WITS Best Paper Runner Up, 2023.*    
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), WDS 2023 (Phoenix), AIMLBA 2023 (Temple@Philadelphia), WITS 2023 (Hyderabad, India).*
-    - *WITS Best Paper Runner Up, 2023.*
 
 4. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "The Web’s Great Conversation."
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
@@ -39,5 +39,5 @@ author_profile: true
     - *Preliminary version appears in INFORMS 2023 (Phoenix).*
 
 12. Yumei He, Xingchen Xu, Ni Huang, Yili Hong, De Liu, "Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating."
-    - *Preliminary version appears in CODE 2020 (MIT@Boston), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).*
     - *ICIS Best Paper in IS Design, Development and Project Management, 2021.*
+    - *Preliminary version appears in CODE 2020 (MIT@Boston), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).*
