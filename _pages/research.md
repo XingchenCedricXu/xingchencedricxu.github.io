@@ -38,6 +38,6 @@ author_profile: true
 10. Yizhi Liu, Qili Wang, Xingchen Xu, Liangfei Qiu, "GeoTagged Echoes."
     - *Preliminary version appears in INFORMS 2023 (Phoenix).*
 
-<!-- 11. Yumei He, Xingchen Xu, Ni Huang, Yili Hong, De Liu, "Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating." -->
+<!-- Yumei He, Xingchen Xu, Ni Huang, Yili Hong, De Liu, "Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating." -->
 <!-- - *ICIS Best Paper in IS Design, Development and Project Management, 2021.* -->
 <!-- - *Preliminary version appears in CODE 2020 (MIT@Boston), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).* -->
