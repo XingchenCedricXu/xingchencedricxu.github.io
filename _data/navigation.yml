@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
+  #  - title: "Research"
+    # url: /research/
   
-  - title: "Teaching and Service"
-    url: /teachingservice/
+  # - title: "Teaching and Service"
+    # url: /teachingservice/
   
-  - title: "Awards"
-    url: /awards/
+  # - title: "Awards"
+    # url: /awards/
   
-  - title: "Miscellaneous"
-    url: /miscellaneous/
+  # - title: "Miscellaneous"
+    # url: /miscellaneous/
   
   # - title: "Talks"
     # url: /talks/     
