@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Information Systems at the Michael G. Foster School of Business, University of Washington. I'm fortunate to work under the supervision of Professor [Yong Tan](http://faculty.washington.edu/ytan/index.htm).
+
+
+I am a Ph.D. student at the Michael G. Foster School of Business, University of Washington.
 
 <!-- 
 I am a Ph.D. student in Information Systems at the Michael G. Foster School of Business, University of Washington. I'm fortunate to work under the supervision of Professor [Yong Tan](http://faculty.washington.edu/ytan/index.htm).
