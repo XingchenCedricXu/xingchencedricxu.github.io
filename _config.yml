@@ -86,7 +86,7 @@ author:
   location         : 
   employer         : "Foster School of Bussiness, <br /> University of Washington"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :  "https://scholar.google.com/citations?user=i_ZUje0AAAAJ"
+  googlescholar    :  # "https://scholar.google.com/citations?user=i_ZUje0AAAAJ"
   email            : "xcxu21@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
