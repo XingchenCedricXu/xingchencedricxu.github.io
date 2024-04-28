@@ -4,7 +4,6 @@ permalink: /awards/
 author_profile: true
 ---
 
-<!-- 
 - WITS Best Paper Runner Up, 2023
 - Informs WDS Student Scholarship (*2), 2023
 - Evert McCabe Endowed Fellowship Program in Private Enterprise, 2023
@@ -16,6 +15,5 @@ author_profile: true
 - Zheng Weimin Scholarship, 2018
 - China National Scholarship, 2018
 - Academic Excellence Award, 2017-2019
--->
 
 <!-- {{ post.date | date: '%m %d, %Y' }} -->
