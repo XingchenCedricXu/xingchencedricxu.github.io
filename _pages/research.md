@@ -10,7 +10,7 @@ author_profile: true
 1. Xingchen Xu, Stephanie Lee, Yong Tan, "Algorithmic Collusion or Competition."
     - *Preliminary version appears in WDS 2023 (Phoenix).*
 
-2. Jin Liu\*, Xingchen Xu\*, Yongjun Li, Yong Tan, "Generate the Future of Work through AI."
+2. Jin Liu\*, Xingchen Xu\*, Xi Nan, Yongjun Li, Yong Tan, "Generate the Future of Work through AI."
     - *WITS Best Paper Runner Up, 2023.*    
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), WDS 2023 (Phoenix), AIMLBA 2023 (Temple@Philadelphia), WITS 2023 (Hyderabad, India), AI&Workplace 2024 (Wharton Online).*
 
