@@ -4,6 +4,8 @@ permalink: /awards/
 author_profile: true
 ---
 
+- Dean's Achievement Award, UW Foster, 2024
+- Outstanding Teaching Award, UW ISOM, 2024
 - WITS Best Paper Runner Up, 2023
 - Informs WDS Student Scholarship (*2), 2023
 - Evert McCabe Endowed Fellowship Program in Private Enterprise, 2023
