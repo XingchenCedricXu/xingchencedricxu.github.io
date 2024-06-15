@@ -12,7 +12,7 @@ author_profile: true
 
 2. Jin Liu\*, Xingchen Xu\*, Xi Nan, Yongjun Li, Yong Tan, "Generate the Future of Work through AI."
     - *WITS Best Paper Runner Up, 2023.*    
-    - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), WDS 2023 (Phoenix), AIMLBA 2023 (Temple@Philadelphia), WITS 2023 (Hyderabad, India), AI&Workplace 2024 (Wharton Online).*
+    - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), WDS 2023 (Phoenix), AIMLBA 2023 (Temple@Philadelphia), WITS 2023 (Hyderabad, India), AI&Workplace 2024 (Wharton Online), CMIC 2024 (Zhengzhou, China).*
 
 3. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Crafting Knowledge."
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
