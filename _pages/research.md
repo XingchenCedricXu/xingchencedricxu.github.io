@@ -6,6 +6,7 @@ author_profile: true
 
 ## Part of Recent Works
 (\* stands for equal contribution and authors are listed alphabetically)
+
 My outstanding coauthor [Jin Liu](https://sites.google.com/uw.edu/jinliu/about) is on the market this year! Please stay tuned!
 
 1. Xingchen Xu, Stephanie Lee, Yong Tan, "Algorithmic Collusion or Competition."
