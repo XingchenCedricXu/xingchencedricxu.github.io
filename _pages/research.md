@@ -6,13 +6,14 @@ author_profile: true
 
 ## Part of Recent Works
 (\* stands for equal contribution and authors are listed alphabetically)
+My outstanding coauthor [Jin Liu](https://sites.google.com/uw.edu/jinliu/about) is on the market this year! Please stay tuned!
 
 1. Xingchen Xu, Stephanie Lee, Yong Tan, "Algorithmic Collusion or Competition."
     - *Preliminary version appears in WDS 2023 (Phoenix).*
 
 2. Jin Liu\*, Xingchen Xu\*, Xi Nan, Yongjun Li, Yong Tan, "Generate the Future of Work through AI."
     - *WITS Best Paper Runner Up, 2023.*    
-    - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), WDS 2023 (Phoenix), AIMLBA 2023 (Temple@Philadelphia), WITS 2023 (Hyderabad, India), AI&Workplace 2024 (Wharton Online), CMIC 2024 (Zhengzhou, China).*
+    - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), WDS 2023 (Phoenix), AIMLBA 2023 (Temple@Philadelphia), WITS 2023 (Hyderabad, India), AI&Workplace 2024 (Wharton Online), CMIC 2024 (Zhengzhou, China), INFORMS 2024 (Seattle), CIST 2024 (Seattle).*
 
 3. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Crafting Knowledge."
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
@@ -36,7 +37,7 @@ author_profile: true
     - *Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indianapolis), BBTC 2023 (Miami).*
 
 10. Yizhi Liu, Qili Wang, Xingchen Xu, Liangfei Qiu, "GeoTagged Echoes."
-    - *Preliminary version appears in INFORMS 2023 (Phoenix).*
+    - *Preliminary version appears in INFORMS 2023 (Phoenix), CIST 2024 (Seattle).*
 
 <!-- 
 11. Yumei He, Xingchen Xu, Ni Huang, Yili Hong, De Liu, "Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating."
