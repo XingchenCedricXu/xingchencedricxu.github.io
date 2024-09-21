@@ -23,7 +23,7 @@ My outstanding coauthors [Lijia Ma](https://foster.uw.edu/academics/degree-progr
     - *Preliminary version appears in INFORMS 2023 (Phoenix).*
 
 5. Lijia Ma, Xingchen Xu, Yumei He, Yong Tan, "Learning to Adopt Generative AI."
-    - *Preliminary version appears in CIST 2024 (Seattle).*
+    - *Preliminary version appears in Biz&GenAI 2024 (Wharton@San Francisco), CIST 2024 (Seattle).*
 
 6. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Chasing Accolades."
     - *Preliminary version appears in POMS 2022 (Virtual).*
