@@ -22,8 +22,8 @@ My outstanding coauthors [Lijia Ma](https://foster.uw.edu/academics/degree-progr
 4. Xingchen Xu, Yifan Yu, Wendao Xue, Ling Jia, Yong Tan, "Digital Sculptors."
     - *Preliminary version appears in INFORMS 2023 (Phoenix).*
 
-5. Xingchen Xu, Yifan Yu, Wendao Xue, Yong Tan, "Algorithmic Bias in Matchmaking."
-    - *Preliminary version appears in INFORMS 2022 (Indianapolis).*
+5. Lijia Ma, Xingchen Xu, Yumei He, Yong Tan, "Learning to Adopt Generative AI."
+    - *Preliminary version appears in CIST 2024 (Seattle).*
 
 6. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Chasing Accolades."
     - *Preliminary version appears in POMS 2022 (Virtual).*
