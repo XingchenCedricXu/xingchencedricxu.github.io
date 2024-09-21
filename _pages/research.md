@@ -16,14 +16,14 @@ My outstanding coauthors [Lijia Ma](https://foster.uw.edu/academics/degree-progr
     - *WITS Best Paper Runner Up, 2023.*    
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), WDS 2023 (Phoenix), AIMLBA 2023 (Temple@Philadelphia), WITS 2023 (Hyderabad, India), AI&Workplace 2024 (Wharton Online), CMIC 2024 (Zhengzhou, China), INFORMS 2024 (Seattle), CIST 2024 (Seattle).*
 
-3. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Crafting Knowledge."
+3. Lijia Ma, Xingchen Xu, Yumei He, Yong Tan, "Learning to Adopt Generative AI."
+    - *Preliminary version appears in Biz&GenAI 2024 (Wharton@San Francisco), INFORMS 2024 (Seattle), CIST 2024 (Seattle).*
+
+4. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Crafting Knowledge."
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
 
-4. Xingchen Xu, Yifan Yu, Wendao Xue, Ling Jia, Yong Tan, "Digital Sculptors."
+5. Xingchen Xu, Yifan Yu, Wendao Xue, Ling Jia, Yong Tan, "Digital Sculptors."
     - *Preliminary version appears in INFORMS 2023 (Phoenix).*
-
-5. Lijia Ma, Xingchen Xu, Yumei He, Yong Tan, "Learning to Adopt Generative AI."
-    - *Preliminary version appears in Biz&GenAI 2024 (Wharton@San Francisco), INFORMS 2024 (Seattle), CIST 2024 (Seattle).*
 
 6. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Chasing Accolades."
     - *Preliminary version appears in POMS 2022 (Virtual).*
