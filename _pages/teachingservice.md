@@ -11,7 +11,7 @@ author_profile: true
 ## Teaching Assistant
 - MSIS 549: Machine Learning & Artificial Intelligence For Business Applications, 2022-2023
 - MSIS 521: Information Technology and Marketing in the New Economy, 2023-2024
-- MSIS 512: Information Security & Assurance in a Networked World, 2022-2023
+- MSIS 512: Information Security & Assurance in a Networked World, 2022-2023, 2024-2025
 - IS 460: Systems Analysis and Design, 2022-2023
 - IS 445: Database Management, 2021-2022, 2023-2024
 - IS 410: Networks and Cybersecurity, 2021-2022
