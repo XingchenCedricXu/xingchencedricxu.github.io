@@ -5,8 +5,8 @@ author_profile: true
 ---
 
 ## Lab Session Teaching at UW
-- IS 451: Business Data Analytics, 2023-2024
-- IS 300: Introduction to Information Systems, 2022-2023
+- IS 451: Business Data Analytics (4.9/5.0), 2023-2024
+- IS 300: Introduction to Information Systems (4.8/5.0), 2022-2023
 
 ## Teaching Assistant
 - MSIS 549: Machine Learning & Artificial Intelligence For Business Applications, 2022-2023
