@@ -18,7 +18,7 @@ author_profile: true
 
 ## Service Activities
 - Journal Reviewer: Information Systems Research
-- Conference Organization: INFORMS Workshop on Data Science (WDS 2024; Student Organizer)
+- Conference Organization Committee: INFORMS Workshop on Data Science (WDS 2024; Student Organizer)
 - Conference PC Member or Reviewer: Conference on Information Systems and Technology (CIST 2022, 2023), International Conference on Information Systems (ICIS 2023, 2024), INFORMS Workshop on Data Science (WDS 2023), Pacific Asia Conference on Information Systems (PACIS 2023)
 - UW Foster First-Year Ph.D. Mentor (2023 - Present)
 
