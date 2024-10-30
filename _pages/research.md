@@ -17,7 +17,7 @@ My outstanding coauthors [Lijia Ma](https://sites.google.com/view/lijia-ma/bio) 
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), WDS 2023 (Phoenix), AIMLBA 2023 (Temple@Philadelphia), WITS 2023 (Hyderabad, India), AI&Workplace 2024 (Wharton Online), CMIC 2024 (Zhengzhou, China), INFORMS 2024 (Seattle), CIST 2024 (Seattle).*
 
 3. Lijia Ma, Xingchen Xu, Yumei He, Yong Tan, "Learning to Adopt Generative AI."
-    - *Preliminary version appears in Biz&GenAI 2024 (Wharton@San Francisco), INFORMS 2024 (Seattle), CIST 2024 (Seattle).*
+    - *Preliminary version appears in Biz&GenAI 2024 (Wharton@San Francisco), INFORMS 2024 (Seattle), CIST 2024 (Seattle), AIMLBA 2024 (Yale@New Haven).*
 
 4. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Crafting Knowledge."
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
