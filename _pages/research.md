@@ -34,7 +34,7 @@ My outstanding coauthors [Lijia Ma](https://sites.google.com/view/lijia-ma/bio) 
 8. Xingchen Xu, Yunxuan Yang, Lijia Ma, Yong Tan, "Love-Hate Tango."
     - *Preliminary version appears in CIST 2023 (Phoenix), INFORMS 2023 (Phoenix).*
 
-9. Xingchen Xu, Qili Wang, Yizhi Liu, Liangfei Qiu, "Social Attention as a Reference Point: Evidence from a Field Experiment."
+9. Xingchen Xu, Qili Wang, Yizhi Liu, Liangfei Qiu, "Social Audience Size as a Reference Point: Evidence from a Field Experiment."
     - *Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indianapolis), BBTC 2023 (Miami).*
 
 10. Yizhi Liu, Qili Wang, Xingchen Xu, Liangfei Qiu, "GeoTagged Echoes."
