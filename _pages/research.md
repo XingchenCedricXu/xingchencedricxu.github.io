@@ -7,8 +7,6 @@ author_profile: true
 ## Part of Recent Works
 (\* stands for equal contribution and authors are listed alphabetically)
 
-My outstanding coauthors [Lijia Ma](https://sites.google.com/view/lijia-ma/bio) and [Jin Liu](https://sites.google.com/uw.edu/jinliu/about) are on the market this year! Please stay tuned!
-
 1. Xingchen Xu, Stephanie Lee, Yong Tan, "Algorithmic Collusion or Competition."
     - *Preliminary version appears in WDS 2023 (Phoenix).*
 
@@ -28,8 +26,7 @@ My outstanding coauthors [Lijia Ma](https://sites.google.com/view/lijia-ma/bio) 
 6. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Chasing Accolades."
     - *Preliminary version appears in POMS 2022 (Virtual).*
 
-7. Kyungmin Park, Xingchen Xu, Stephanie Lee, Yong Tan, "Enhancing Students' Social Engagement."
-    - *Preliminary version appears in CIST 2022 (Indianapolis).*
+7. Uttara M. Ananthakrishnan, Xingchen Xu, Maria Mitkina, Yong Tan, "Political Consumerism via Product Attributes."
 
 8. Xingchen Xu, Yunxuan Yang, Lijia Ma, Yong Tan, "Love-Hate Tango."
     - *Preliminary version appears in CIST 2023 (Phoenix), INFORMS 2023 (Phoenix).*
