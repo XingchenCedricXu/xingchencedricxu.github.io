@@ -26,18 +26,14 @@ author_profile: true
 6. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Chasing Accolades."
     - *Preliminary version appears in POMS 2022 (Virtual).*
 
-7. Uttara M. Ananthakrishnan, Xingchen Xu, Maria Mitkina, Yong Tan, "Political Consumerism via Product Attributes."
 
-8. Xingchen Xu, Yunxuan Yang, Lijia Ma, Yong Tan, "Love-Hate Tango."
-    - *Preliminary version appears in CIST 2023 (Phoenix), INFORMS 2023 (Phoenix).*
+<!-- 
 
 9. Xingchen Xu, Qili Wang, Yizhi Liu, Liangfei Qiu, "Social Audience Size as a Reference Point: Evidence from a Field Experiment."
     - *Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indianapolis), BBTC 2023 (Miami).*
 
-10. Yizhi Liu, Qili Wang, Xingchen Xu, Liangfei Qiu, "GeoTagged Echoes."
-    - *Preliminary version appears in INFORMS 2023 (Phoenix), CIST 2024 (Seattle).*
+Uttara M. Ananthakrishnan, Xingchen Xu, Maria Mitkina, Yong Tan, "Political Consumerism and the Emergence of Rare Information on User-Generated Content Platforms."
 
-<!-- 
 11. Yumei He, Xingchen Xu, Ni Huang, Yili Hong, De Liu, "Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating."
     - *ICIS Best Paper in IS Design, Development and Project Management, 2021.*
     - *Preliminary version appears in CODE 2020 (MIT@Boston), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).*
