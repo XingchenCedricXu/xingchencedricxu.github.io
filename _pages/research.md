@@ -17,14 +17,6 @@ author_profile: true
 3. Lijia Ma, Xingchen Xu, Yumei He, Yong Tan, "Learning to Adopt Generative AI."
     - *Preliminary version appears in Biz&GenAI 2024 (Wharton@San Francisco), INFORMS 2024 (Seattle), CIST 2024 (Seattle), AIMLBA 2024 (Yale@New Haven).*
 
-4. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Crafting Knowledge."
-    - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
-
-5. Xingchen Xu, Yifan Yu, Wendao Xue, Ling Jia, Yong Tan, "Digital Sculptors."
-    - *Preliminary version appears in INFORMS 2023 (Phoenix).*
-
-6. Lijia Ma\*, Xingchen Xu\*, Yong Tan, "Chasing Accolades."
-    - *Preliminary version appears in POMS 2022 (Virtual).*
 
 
 <!-- 
