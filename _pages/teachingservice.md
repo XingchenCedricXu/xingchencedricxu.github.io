@@ -9,6 +9,7 @@ author_profile: true
 - IS 300: Introduction to Information Systems (4.8/5.0), 2022-2023
 
 ## Teaching Assistant
+- BA 502: Data Management for Analytics, 2024-2025
 - MSIS 549: Machine Learning & Artificial Intelligence For Business Applications, 2022-2023
 - MSIS 521: Information Technology and Marketing in the New Economy, 2023-2024
 - MSIS 512: Information Security & Assurance in a Networked World, 2022-2023, 2024-2025
