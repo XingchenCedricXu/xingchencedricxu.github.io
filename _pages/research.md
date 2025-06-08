@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
+<!-- 
 ## Part of Recent Works
 (\* stands for equal contribution and authors are listed alphabetically)
 
@@ -19,8 +19,6 @@ author_profile: true
 
 4. Moxin Team, "7B Fully Open Source Moxin-LLM -- From Pretraining to GRPO-based Reinforcement Learning Enhancement."
     - *Preliminary version appears in ICLR 2025 SCI-FM (Singapore).*
-
-<!-- 
 
 9. Xingchen Xu, Qili Wang, Yizhi Liu, Liangfei Qiu, "Social Audience Size as a Reference Point: Evidence from a Field Experiment."
     - *Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indianapolis), BBTC 2023 (Miami).*
