@@ -3,6 +3,7 @@ title: "Teaching and Service"
 permalink: /teachingservice/
 author_profile: true
 ---
+<!-- 
 
 ## Lab Session Teaching at UW
 - IS 451: Business Data Analytics (4.9/5.0), 2023-2024
@@ -36,3 +37,4 @@ I kindly encourage you to take the time to reflect on your decision, and I would
 *2(a). "I advise my graduate students to pick a research problem that is important (so that it will matter if it is solved), but one for which they have a secret weapon that gives some prospect of success."*
 
 *2(b). "One of the first rules of science is if somebody delivers a secret weapon to you, you better use it."*
+-->
