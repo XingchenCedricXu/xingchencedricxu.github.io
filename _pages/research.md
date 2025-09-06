@@ -3,9 +3,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<!-- 
-## Part of Recent Works
-(\* stands for equal contribution and authors are listed alphabetically)
+
+## Selective Works
 
 1. Xingchen Xu, Stephanie Lee, Yong Tan, "Algorithmic Collusion or Competition."
     - *Preliminary version appears in WDS 2023 (Phoenix), BizAI 2025 (UTD), POMS 2025 (Atlanta).*
@@ -28,4 +27,4 @@ Uttara M. Ananthakrishnan, Xingchen Xu, Maria Mitkina, Yong Tan, "Political Cons
 11. Yumei He, Xingchen Xu, Ni Huang, Yili Hong, De Liu, "Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating."
     - *ICIS Best Paper in IS Design, Development and Project Management, 2021.*
     - *Preliminary version appears in CODE 2020 (MIT@Boston), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).*
--->
+
