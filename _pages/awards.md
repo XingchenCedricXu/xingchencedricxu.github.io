@@ -3,7 +3,8 @@ title: "Awards and Grants"
 permalink: /awards/
 author_profile: true
 ---
-<!--
+
+- Outstanding Research Award, UW ISOM, 2025
 - Dean's Achievement Award, UW Foster, 2024
 - Outstanding Teaching Award, UW ISOM, 2024
 - WITS Best Paper Runner Up, 2023
@@ -18,4 +19,4 @@ author_profile: true
 - China National Scholarship, 2018
 - Academic Excellence Award, 2017-2019
  -->
-<!-- {{ post.date | date: '%m %d, %Y' }} -->
+
