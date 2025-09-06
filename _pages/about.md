@@ -16,6 +16,3 @@ I also enjoy cooperating with all kinds of enterprises to tackle real-world prob
 
 Before my Ph.D. career, I studied Information Management and Information Systems at the School of Economics and Management, Tsinghua University. I was glad to cultivate research skills under the guidance of Professor [Kevin Hong](https://kevinhong.ai/) and Professor [Bo Li](https://www.sem.tsinghua.edu.cn/en/info/1233/6986.htm) during that period. I was also fortunate to have the chance to participate in the weekly seminar led by Professor [Guoqing Chen](https://www.sem.tsinghua.edu.cn/en/info/1219/7556.htm), Professor [Xunhua Guo](https://www.sem.tsinghua.edu.cn/en/info/1219/6969.htm), and Professor [Qiang Wei](https://www.sem.tsinghua.edu.cn/en/info/1219/7289.htm).
 
-
-
--->
