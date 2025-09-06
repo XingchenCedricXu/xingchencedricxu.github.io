@@ -14,6 +14,6 @@ I feel excited about what I am doing every day! In my spare time, I also enjoy c
 ## Sports
 I'm a runner and a retired taekwondo athlete.
 -	My Personal Best (PB) in 100m is 11.2s.
--	I won a silver medal (taekwondo: 53kg male) in a city-level professional sports meet.
+-	I won a silver medal in a city-level professional sports meet.
 -	I also finished a Road Cycling around Qinghai Lake (360 kilometers) in four days.
 
