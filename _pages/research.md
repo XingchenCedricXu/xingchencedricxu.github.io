@@ -22,7 +22,7 @@ author_profile: true
 
 5. LLM-based Assessment and Teacher Performance
 
-6. Generative AI Stretches Workdays
+6. Open Foundation Models Will Create the Scaling Law of Mind
    
 7. Can AI Keep AI Safe? Understanding AI-to-AI Safety Monitoring Under Context Dilution
 
