@@ -28,7 +28,7 @@ author_profile: true
 
 ## Selective works on the Human Decision-making Process and Platform Designs
 
-8. [Social Audience Size as a Reference Point: Evidence from a Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5132141)
+8. [Social Audience Size as a Reference Point: Evidence from a Field Experiment](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03144)
     - *Forthcoming in Management Science.*
     - *Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indianapolis), BBTC 2023 (Miami).*
 
