@@ -20,7 +20,7 @@ author_profile: true
     - *Preliminary version appears in ICLR 2025 SCI-FM (Singapore).*
     - [*Repository Link*](https://github.com/moxin-org/Moxin-LLM)
 
-5. LLM-based Assessment and Teacher Performance
+5. LLM-based Assessment and Teaching Performance
 
 6. Open Foundation Models Will Create the Scaling Law of Mind
    
