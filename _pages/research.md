@@ -17,7 +17,7 @@ author_profile: true
     - *Preliminary version appears in Biz&GenAI 2024 (Wharton@San Francisco), INFORMS 2024 (Seattle), CIST 2024 (Seattle), AIMLBA 2024 (Yale@New Haven), POMS 2025 (Atlanta).*
 
 4. [7B Fully Open Source Moxin-LLM -- From Pretraining to GRPO-based Reinforcement Learning Enhancement](https://arxiv.org/abs/2412.06845)
-    - *Preliminary version appears in ICLR 2025 SCI-FM (Singapore).*
+    - *ICLR 2025 SCI-FM.*
     - [*Repository Link*](https://github.com/moxin-org/Moxin-LLM)
 
 5. LLM-based Assessment and Teaching Performance
