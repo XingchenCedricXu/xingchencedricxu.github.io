@@ -26,6 +26,8 @@ author_profile: true
    
 7. Can AI Keep AI Safe? Understanding AI-to-AI Safety Monitoring Under Context Dilution
 
+8. [When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729503)
+
 ## Selective works on the Human Decision-making Process and Platform Designs
 
 8. [Social Audience Size as a Reference Point: Evidence from a Field Experiment](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03144)
