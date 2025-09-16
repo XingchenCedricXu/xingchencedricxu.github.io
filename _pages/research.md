@@ -30,14 +30,14 @@ author_profile: true
 
 ## Selective works on the Human Decision-making Process and Platform Designs
 
-8. [Social Audience Size as a Reference Point: Evidence from a Field Experiment](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03144)
+1. [Social Audience Size as a Reference Point: Evidence from a Field Experiment](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03144)
     - *Forthcoming in Management Science.*
     - *Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indianapolis), BBTC 2023 (Miami).*
 
-9. [Political Consumerism and the Emergence of Rare Information on User-Generated Content Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5237716)
+2. [Political Consumerism and the Emergence of Rare Information on User-Generated Content Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5237716)
     - *Forthcoming in Management Science.*
 
-10. [Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating](https://pubsonline.informs.org/doi/10.1287/isre.2021.0379)
+3. [Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating](https://pubsonline.informs.org/doi/10.1287/isre.2021.0379)
     - *Information Systems Research, 2025.*
     - *ICIS Best Paper in IS Design, Development and Project Management, 2021.*
     - *Preliminary version appears in CODE 2020 (MIT@Boston), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).*
