@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Selective works on AI-AI interaction and Human-AI interaction
+## Selective works on Human-(Gen)AI interaction and AI-AI interaction
 
 1. [Algorithmic Collusion or Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579458)
     - *Preliminary version appears in WDS 2023 (Phoenix), BizAI 2025 (UTD), POMS 2025 (Atlanta), INFORMS 2025 (Atlanta).*
