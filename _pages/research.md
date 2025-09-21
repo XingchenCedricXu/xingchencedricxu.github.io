@@ -25,7 +25,7 @@ author_profile: true
     - *Preliminary version appears in WDS 2023 (Phoenix), BizAI 2025 (UTD), POMS 2025 (Atlanta), INFORMS 2025 (Atlanta).*
 
 2. [Generate the Future of Work through AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4529739)
-    - *Under third round review in Information Systems Research.*
+    - *Under the third round review in Information Systems Research.*
     - *WITS Best Paper Runner Up, 2023.*    
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), WDS 2023 (Phoenix), AIMLBA 2023 (Temple@Philadelphia), WITS 2023 (Hyderabad, India), AI&Workplace 2024 (Wharton Online), CMIC 2024 (Zhengzhou, China), INFORMS 2024 (Seattle), CIST 2024 (Seattle), POMS 2025 (Atlanta).*
 
