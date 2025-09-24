@@ -18,5 +18,4 @@ author_profile: true
 - Zheng Weimin Scholarship, 2018
 - China National Scholarship, 2018
 - Academic Excellence Award, 2017-2019
- -->
 
