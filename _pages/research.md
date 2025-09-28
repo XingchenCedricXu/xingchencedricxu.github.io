@@ -18,7 +18,7 @@ author_profile: true
     - *ICIS Best Paper in IS Design, Development and Project Management, 2021.*
     - *Preliminary version appears in CODE 2020 (MIT@Boston), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).*
 
-## Selective works on Human-(Gen)AI interaction and AI-AI interaction
+## Selective works on LLM, Human-AI interaction and AI-AI interaction
 
 1. [Algorithmic Collusion or Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579458)
     - *Revising for the third round review in Management Science.*
@@ -47,4 +47,6 @@ author_profile: true
     - *Major Revision in NDSS 2026 (top cybersecurity conference).*
 
 8. [When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729503)
+   - *In Preparation for Submission to Information Systems Research.*
+   - *Preliminary version appears in Biz\&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz\&AI 2024 (UTD@Dallas).*
 
