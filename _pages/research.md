@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Selective works on the Human Decision-making Process and Platform Designs
+## Selected works on the Human Decision-making Process and Platform Designs
 
 1. [Social Audience Size as a Reference Point: Evidence from a Field Experiment](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03144)
     - *Forthcoming in Management Science.*
@@ -18,7 +18,7 @@ author_profile: true
     - *ICIS Best Paper in IS Design, Development and Project Management, 2021.*
     - *Preliminary version appears in CODE 2020 (MIT@Boston), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).*
 
-## Selective works on LLM, Human-AI interaction and AI-AI interaction
+## Selected works on LLM, Human-AI interaction and AI-AI interaction
 
 1. [Algorithmic Collusion or Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579458)
     - *Revising for the third round review in Management Science.*
