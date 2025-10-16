@@ -34,20 +34,20 @@ author_profile: true
     - *DSI Best Interdisciplinary Paper Award, 2025.* 
     - *Preliminary version appears in Biz&GenAI 2024 (Wharton@San Francisco), INFORMS 2024 (Seattle), CIST 2024 (Seattle), AIMLBA 2024 (Yale@New Haven), POMS 2025 (Atlanta).*
 
-4. [7B Fully Open Source Moxin-LLM -- From Pretraining to GRPO-based Reinforcement Learning Enhancement](https://arxiv.org/abs/2412.06845)
+4. LLM-based Assessment and Teaching Performance
+    - *In preparation for submission to Nature Sensors.*
+
+5. [When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729503)
+   - *In preparation for submission to Information Systems Research.*
+   - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
+
+## Open-Source Endeavor
+
+1. [7B Fully Open Source Moxin-LLM -- From Pretraining to GRPO-based Reinforcement Learning Enhancement](https://arxiv.org/abs/2412.06845)
     - *ICLR 2025 SCI-FM.*
     - [*Repository Link*](https://github.com/moxin-org/Moxin-LLM)
 
-5. LLM-based Assessment and Teaching Performance
-    - *In preparation for submission to Nature Sensors.*
-
-6. Open Foundation Models Will Create the Scaling Law of Mind
+2. Open Foundation Models Will Create the Scaling Law of Mind
     - *In preparation for submission to Nature.*
- 
-7. Can AI Keep AI Safe? Understanding AI-to-AI Safety Monitoring Under Context Dilution
-    - *Major revision in NDSS 2026 (top cybersecurity conference).*
 
-8. [When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729503)
-   - *In preparation for submission to Information Systems Research.*
-   - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
 
