@@ -18,7 +18,10 @@ author_profile: true
     - *ICIS Best Paper in IS Design, Development and Project Management, 2021.*
     - *Preliminary version appears in CODE 2020 (MIT@Boston), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).*
 
-## Works on LLM, Human-AI interaction and AI-AI interaction
+4. [Reputation Farming: A Structural Model of Freelancers' Bidding Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5645730)
+    - *Preliminary version appears in INFORMS 2025 (Atlanta).*
+
+## Works on Human-AI interaction and AI-AI interaction
 
 1. [Algorithmic Collusion or Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579458)
     - *Revising for the third round review in Management Science.*
