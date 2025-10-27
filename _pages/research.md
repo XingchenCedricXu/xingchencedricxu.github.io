@@ -25,6 +25,7 @@ author_profile: true
 
 1. [Algorithmic Collusion or Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579458)
     - *Revising for the third round review in Management Science.*
+    - *INFORMS ISS Cluster Best Paper Award, 2025.*
     - *Preliminary version appears in WDS 2023 (Phoenix), BizAI 2025 (UTD), POMS 2025 (Atlanta), INFORMS 2025 (Atlanta).*
 
 2. [Generate the Future of Work through AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4529739)
