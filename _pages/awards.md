@@ -4,6 +4,7 @@ permalink: /awards/
 author_profile: true
 ---
 
+- INFORMS ISS Cluster Best Paper Award, 2025.
 - DSI Best Interdisciplinary Paper Award, 2025.
 - Outstanding Research Award, UW ISOM, 2025
 - Dean's Achievement Award, UW Foster, 2024
