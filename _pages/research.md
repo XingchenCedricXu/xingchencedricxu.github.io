@@ -19,6 +19,7 @@ author_profile: true
     - *Preliminary version appears in CODE 2020 (MIT@Boston), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).*
 
 4. [Reputation Farming: A Structural Model of Freelancers' Bidding Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5645730)
+    - *In preparation for submission to Management Science.*
     - *Preliminary version appears in INFORMS 2025 (Atlanta).*
 
 ## Works on Human-AI interaction and AI-AI interaction
