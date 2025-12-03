@@ -10,7 +10,7 @@ author_profile: true
     - *Forthcoming in Management Science.*
     - *Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indianapolis), BBTC 2023 (Miami).*
 
-2. [Political Consumerism and the Emergence of Rare Information on User-Generated Content Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5237716)
+2. [Political Consumerism and the Emergence of Rare Information on User-Generated Content Platforms](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.02789)
     - *Forthcoming in Management Science.*
 
 3. [Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating](https://pubsonline.informs.org/doi/10.1287/isre.2021.0379)
