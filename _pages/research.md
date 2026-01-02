@@ -46,13 +46,15 @@ author_profile: true
    - *Under review at Information Systems Research.*
    - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
 
-## Open-Source Endeavor
+## LLM Building
 
-1. [7B Fully Open Source Moxin-LLM -- From Pretraining to GRPO-based Reinforcement Learning Enhancement](https://arxiv.org/abs/2412.06845)
+1. [Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA](https://arxiv.org/abs/2512.22208)
+   
+2. [7B Fully Open Source Moxin-LLM -- From Pretraining to GRPO-based Reinforcement Learning Enhancement](https://arxiv.org/abs/2412.06845)
     - *ICLR 2025 SCI-FM.*
     - [*Repository Link*](https://github.com/moxin-org/Moxin-LLM)
 
-2. Open Foundation Models Will Create the Scaling Law of Mind
+3. Open Foundation Models Will Create the Scaling Law of Mind
     - *In preparation for submission to Nature.*
 
 
