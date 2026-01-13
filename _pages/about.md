@@ -16,4 +16,4 @@ I employ a multidisciplinary approach that combines econometric methods (includi
 
 Over the past several years, I have collaborated closely with industry leaders to develop, implement, and evaluate large language models across exciting, high-stakes business environments. I have also partnered with multiple platforms to address their pain points by combining their business intuition with our rigorous "model thinking". Additionally, leveraging unique, fine-grained data from these collaborations, I conduct empirical research to understand user behavior patterns and inform corresponding adjustments to platform policies and algorithms; several of these changes have persisted in production and continue to deliver substantial business value.
 
-Updated: 2025/11/10
+Updated: 2026/01
