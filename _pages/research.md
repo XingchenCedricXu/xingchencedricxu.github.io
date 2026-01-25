@@ -42,7 +42,10 @@ author_profile: true
 4. LLM-based Assessment and Teaching Performance
     - *In preparation for submission to Nature Human Behavior.*
 
-5. [When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729503)
+5. Sooner but Weake
+    - *In preparation for submission to Information Systems Research.*
+
+6. [When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729503)
    - *Revising for the second round review at Information Systems Research.*
    - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
 
