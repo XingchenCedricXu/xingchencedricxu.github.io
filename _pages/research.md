@@ -42,7 +42,7 @@ author_profile: true
 4. LLM-based Assessment and Teaching Performance
     - *In preparation for submission to Nature Human Behavior.*
 
-5. Sooner but Weake
+5. Sooner but Weaker
     - *In preparation for submission to Information Systems Research.*
 
 6. [When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729503)
