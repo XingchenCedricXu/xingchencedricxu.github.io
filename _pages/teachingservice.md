@@ -4,9 +4,6 @@ permalink: /teachingservice/
 author_profile: true
 ---
 
-## Guest Lecture 
-- Large Language Models and Business Applications (MBA core, USTC), 2025-2026
-
 ## Lab Session Teaching at UW
 - IS 451: Business Data Analytics (4.9/5.0), 2023-2024
 - IS 300: Introduction to Information Systems (4.8/5.0), 2022-2023
@@ -19,6 +16,9 @@ author_profile: true
 - IS 460: Systems Analysis and Design, 2022-2023
 - IS 445: Database Management, 2021-2022, 2023-2024
 - IS 410: Networks and Cybersecurity, 2021-2022
+
+## Guest Talk 
+- Large Language Models and Business Applications (USTC), 2025-2026
 
 ## Service Activities
 - Journal Reviewer: Information Systems Research
