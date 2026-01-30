@@ -18,7 +18,7 @@ author_profile: true
 - IS 410: Networks and Cybersecurity, 2021-2022
 
 ## Guest Talk 
-- Large Language Models and Business Applications (USTC), 2025-2026
+- Large Language Models and Business Applications (USTC), 2025
 
 ## Service Activities
 - Journal Reviewer: Information Systems Research
