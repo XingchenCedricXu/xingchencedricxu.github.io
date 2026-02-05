@@ -21,7 +21,7 @@ author_profile: true
 - Large Language Models and Business Applications (USTC), 2025
 
 ## Service Activities
-- Journal Reviewer: Information Systems Research
+- Journal Reviewer: Information Systems Research, Manufacturing & Service Operations Management
 - Conference Organization Committee: INFORMS Workshop on Data Science (WDS 2024; Student)
 - Conference PC Member or Reviewer: Conference on Information Systems and Technology (CIST 2022, 2023), International Conference on Information Systems (ICIS 2023, 2024), INFORMS Workshop on Data Science (WDS 2023), Pacific Asia Conference on Information Systems (PACIS 2023)
 - UW Foster First-Year Ph.D. Mentor (2023 - Present)
