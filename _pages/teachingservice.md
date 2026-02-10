@@ -15,7 +15,7 @@ author_profile: true
 - MSIS 512: Information Security & Assurance in a Networked World, 2022-2023, 2024-2025, 2025-2026
 - IS 460: Systems Analysis and Design, 2022-2023
 - IS 445: Database Management, 2021-2022, 2023-2024
-- IS 410: Networks and Cybersecurity, 2021-2022
+- IS 410: Networks and Cybersecurity, 2021-2022, 2025-2026
 
 ## Guest Talk 
 - Large Language Models and Business Applications (USTC), 2025
