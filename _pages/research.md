@@ -22,6 +22,9 @@ author_profile: true
     - *Revising for the second round review at Management Science.*
     - *Preliminary version appears in INFORMS 2025 (Atlanta).*
 
+5. The Identity Tax
+    - *Preliminary version appears in CIST 2023 (Phoenix).*
+
 ## Works on Human-AI interaction and AI-AI interaction
 
 1. [Algorithmic Collusion or Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579458)
