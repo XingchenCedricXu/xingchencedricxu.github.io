@@ -22,7 +22,7 @@ author_profile: true
     - *Revising for the second round review at Management Science.*
     - *Preliminary version appears in INFORMS 2025 (Atlanta).*
 
-5. The Identity Tax
+5. The Identity Tax: How Group Identity Disclosure Disproportionately Affects Online Discussions Across Hierarchies
     - *Preliminary version appears in CIST 2023 (Phoenix).*
 
 6. Same Space, Different Sparks
