@@ -24,6 +24,7 @@ author_profile: true
 
 5. The Identity Tax: How Group Identity Disclosure Disproportionately Affects Online Discussions Across Hierarchies
     - *Preliminary version appears in CIST 2023 (Phoenix).*
+    - *In preparation for submission.*
 
 6. Same Space, Different Sparks
     - *Preliminary version appears in INFORMS 2025 (Atlanta).*
@@ -47,11 +48,11 @@ author_profile: true
 
 4. LLM-based Assessment and Teaching Performance
     - *Preliminary version appears in TRICS 2026 (Tulane).*
-    - *In preparation for submission to Nature Human Behavior.*
+    - *In preparation for submission.*
 
 6. Sooner but Weaker
     - *Preliminary version appears in BizAI 2026 (UTD).*
-    - *In preparation for submission to Information Systems Research.*
+    - *In preparation for submission.*
 
 7. [When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729503)
    - *Revising for the second round review at Information Systems Research.*
@@ -66,6 +67,6 @@ author_profile: true
     - [*Repository Link*](https://github.com/moxin-org/Moxin-LLM)
 
 3. Open Foundation Models Will Create the Scaling Law of Mind
-    - *In preparation for submission to Nature.*
+    - *In preparation for submission.*
 
 
