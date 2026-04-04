@@ -28,6 +28,7 @@ author_profile: true
 
 6. Same Space, Different Sparks
     - *Preliminary version appears in INFORMS 2025 (Atlanta).*
+    - *In preparation for submission.*
 
 ## Works on Human-AI interaction and AI-AI interaction
 
