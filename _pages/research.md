@@ -46,7 +46,7 @@ author_profile: true
     - *DSI Best Interdisciplinary Paper Award, 2025.* 
     - *Preliminary version appears in Biz&GenAI 2024 (Wharton@San Francisco), INFORMS 2024 (Seattle), CIST 2024 (Seattle), AIMLBA 2024 (Yale@New Haven), POMS 2025 (Atlanta).*
 
-4. LLM-based Assessment and Teaching Performance
+4. Multimodal AI-Generated Feedback Improves Teaching Quality at the National Scale but Unevenly
     - *Preliminary version appears in TRICS 2026 (Tulane).*
     - *In preparation for submission.*
 
