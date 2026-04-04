@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student in Information Systems at the Michael G. Foster School of Business, University of Washington. I'm fortunate to work under the supervision of Professor [Yong Tan](http://faculty.washington.edu/ytan/index.htm). Before my Ph.D. career, I studied Information Management and Information Systems at the School of Economics and Management, Tsinghua University.
 
-My research centers on the economics of Transformative AI. I examine AI adoption and usage patterns at both the individual and market/society levels, leveraging these empirical insights to inform the design of AI systems, market mechanisms, and policies. I also study the complex dynamics of AI-AI interaction that emerge when multiple participants deploy AI within a market/society.
+My research centers on the economics of Transformative AI. I examine AI adoption and usage patterns at both the individual and market/society levels, leveraging these empirical insights to inform the design of AI systems, market mechanisms, and policies. I also study the complex dynamics of AI-AI interaction that emerge when multiple participants deploy AI within the market/society.
 
 I employ a multidisciplinary approach that combines econometric methods (including structural estimation), field/laboratory experiments, analytical models, and machine learning algorithms (including reinforcement learning and large language models) to analyze data, infer causality, and optimize policies. My work has appeared in *Management Science* and *Information Systems Research*, and has received paper awards from INFORMS, WITS, ICIS, and DSI.
 
