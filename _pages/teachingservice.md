@@ -6,7 +6,7 @@ author_profile: true
 
 ## Teaching at UW
 - IS 451 (Instructor): Business Data Analytics, 2025-2026
-- IS 451 (Lab Instructor): Business Data Analytics, 2025-2026
+- IS 451 (Lab Instructor): Business Data Analytics, 2023-2024
 - IS 300 (Lab Instructor): Introduction to Information Systems, 2022-2023
 
 ## Teaching Assistant
