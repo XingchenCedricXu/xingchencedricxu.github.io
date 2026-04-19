@@ -4,32 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-## Works on the Human Decision-making Process and Platform Designs
-
-1. [Social Audience Size as a Reference Point: Evidence from a Field Experiment](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03144)
-    - *Forthcoming in Management Science.*
-    - *Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indianapolis), BBTC 2023 (Miami).*
-
-2. [Political Consumerism and the Emergence of Rare Information on User-Generated Content Platforms](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.02789)
-    - *Forthcoming in Management Science.*
-
-3. [Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating](https://pubsonline.informs.org/doi/10.1287/isre.2021.0379)
-    - *Information Systems Research, 2025.*
-    - *ICIS Best Paper in IS Design, Development and Project Management, 2021.*
-    - *Preliminary version appears in CODE 2020 (MIT@Boston), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).*
-
-4. [Reputation Farming: A Structural Model of Freelancers' Bidding Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5645730)
-    - *Revising for the second round review at Management Science.*
-    - *Preliminary version appears in INFORMS 2025 (Atlanta).*
-
-5. The Identity Tax: How Group Identity Disclosure Disproportionately Affects Online Discussions Across Hierarchies
-    - *Preliminary version appears in CIST 2023 (Phoenix).*
-    - *In preparation for submission.*
-
-6. Same Space, Different Sparks
-    - *Preliminary version appears in INFORMS 2025 (Atlanta).*
-    - *In preparation for submission.*
-
 ## Works on Human-AI interaction and AI-AI interaction
 
 1. [Algorithmic Collusion or Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579458)
@@ -58,6 +32,33 @@ author_profile: true
 7. [When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729503)
    - *Revising for the second round review at Information Systems Research.*
    - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
+
+
+## Works on the Human Decision-making Process and Platform Designs
+
+1. [Social Audience Size as a Reference Point: Evidence from a Field Experiment](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03144)
+    - *Forthcoming in Management Science.*
+    - *Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indianapolis), BBTC 2023 (Miami).*
+
+2. [Political Consumerism and the Emergence of Rare Information on User-Generated Content Platforms](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.02789)
+    - *Forthcoming in Management Science.*
+
+3. [Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating](https://pubsonline.informs.org/doi/10.1287/isre.2021.0379)
+    - *Information Systems Research, 2025.*
+    - *ICIS Best Paper in IS Design, Development and Project Management, 2021.*
+    - *Preliminary version appears in CODE 2020 (MIT@Boston), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).*
+
+4. [Reputation Farming: A Structural Model of Freelancers' Bidding Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5645730)
+    - *Revising for the second round review at Management Science.*
+    - *Preliminary version appears in INFORMS 2025 (Atlanta).*
+
+5. The Identity Tax: How Group Identity Disclosure Disproportionately Affects Online Discussions Across Hierarchies
+    - *Preliminary version appears in CIST 2023 (Phoenix).*
+    - *In preparation for submission.*
+
+6. Same Space, Different Sparks
+    - *Preliminary version appears in INFORMS 2025 (Atlanta).*
+    - *In preparation for submission.*
 
 ## LLM Building
 
