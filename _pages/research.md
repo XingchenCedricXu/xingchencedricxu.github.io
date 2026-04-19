@@ -36,21 +36,21 @@ author_profile: true
 
 ## Works on the Human Decision-making Process and Platform Designs
 
-1. [Social Audience Size as a Reference Point: Evidence from a Field Experiment](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03144)
-    - *Forthcoming in Management Science.*
-    - *Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indianapolis), BBTC 2023 (Miami).*
+1. [Reputation Farming: A Structural Model of Freelancers' Bidding Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5645730)
+    - *Revising for the second round review at Management Science.*
+    - *Preliminary version appears in INFORMS 2025 (Atlanta).*
 
 2. [Political Consumerism and the Emergence of Rare Information on User-Generated Content Platforms](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.02789)
     - *Forthcoming in Management Science.*
 
-3. [Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating](https://pubsonline.informs.org/doi/10.1287/isre.2021.0379)
+3. [Social Audience Size as a Reference Point: Evidence from a Field Experiment](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03144)
+    - *Forthcoming in Management Science.*
+    - *Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indianapolis), BBTC 2023 (Miami).*
+
+4. [Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating](https://pubsonline.informs.org/doi/10.1287/isre.2021.0379)
     - *Information Systems Research, 2025.*
     - *ICIS Best Paper in IS Design, Development and Project Management, 2021.*
     - *Preliminary version appears in CODE 2020 (MIT@Boston), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).*
-
-4. [Reputation Farming: A Structural Model of Freelancers' Bidding Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5645730)
-    - *Revising for the second round review at Management Science.*
-    - *Preliminary version appears in INFORMS 2025 (Atlanta).*
 
 5. The Identity Tax: How Group Identity Disclosure Disproportionately Affects Online Discussions Across Hierarchies
     - *Preliminary version appears in CIST 2023 (Phoenix).*
