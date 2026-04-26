@@ -66,7 +66,7 @@ author_profile: true
     - *Preliminary version appears in INFORMS 2025 (Atlanta).*
     - *In preparation for submission.*
 
-## LLM Building
+## LLM Building and Evaluation
 
 1. [Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA](https://arxiv.org/abs/2512.22208)
    
