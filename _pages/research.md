@@ -75,6 +75,5 @@ author_profile: true
     - [*Repository Link*](https://github.com/moxin-org/Moxin-LLM)
 
 3. Open Foundation Models Will Create the Scaling Law of Mind
-    - *In preparation for submission.*
 
 
