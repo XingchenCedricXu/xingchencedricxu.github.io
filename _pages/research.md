@@ -16,12 +16,14 @@ author_profile: true
     - *WITS Best Paper Runner Up, 2023.*    
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), WDS 2023 (Phoenix), AIMLBA 2023 (Temple@Philadelphia), WITS 2023 (Hyderabad, India), AI&Workplace 2024 (Wharton Online), CMIC 2024 (Zhengzhou, China), INFORMS 2024 (Seattle), CIST 2024 (Seattle), POMS 2025 (Atlanta).*
 
-3. [Learning to Adopt Generative AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4990170)
+3. Search De-personalization
+
+4. [Learning to Adopt Generative AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4990170)
     - *Under the second round review at Information Systems Research.*
     - *DSI Best Interdisciplinary Paper Award, 2025.* 
     - *Preliminary version appears in Biz&GenAI 2024 (Wharton@San Francisco), INFORMS 2024 (Seattle), CIST 2024 (Seattle), AIMLBA 2024 (Yale@New Haven), POMS 2025 (Atlanta).*
 
-4. Multimodal AI-Generated Feedback Improves Teaching Quality at the National Scale but Unevenly
+5. Multimodal AI-Generated Feedback Improves Teaching Quality at the National Scale but Unevenly
     - *Preliminary version appears in TRICS 2026 (Tulane).*
     - *In preparation for submission.*
 
@@ -29,7 +31,9 @@ author_profile: true
     - *Preliminary version appears in BizAI 2026 (UTD).*
     - *In preparation for submission.*
 
-7. [When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729503)
+7. How People Use Generative AI in the Organization
+
+8. [When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729503)
    - *Revising for the second round review at Information Systems Research.*
    - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
 
