@@ -76,4 +76,6 @@ author_profile: true
 
 3. Open Foundation Models Will Create the Scaling Law of Mind
 
+4. A Curated World Model Benchmark
+
 
