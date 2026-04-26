@@ -17,6 +17,7 @@ author_profile: true
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), WDS 2023 (Phoenix), AIMLBA 2023 (Temple@Philadelphia), WITS 2023 (Hyderabad, India), AI&Workplace 2024 (Wharton Online), CMIC 2024 (Zhengzhou, China), INFORMS 2024 (Seattle), CIST 2024 (Seattle), POMS 2025 (Atlanta).*
 
 3. Search De-personalization
+    - *In preparation for submission.*
 
 4. [Learning to Adopt Generative AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4990170)
     - *Under the second round review at Information Systems Research.*
@@ -32,6 +33,7 @@ author_profile: true
     - *In preparation for submission.*
 
 7. How People Use Generative AI in the Organization
+    - *In preparation for submission.*
 
 8. [When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729503)
    - *Revising for the second round review at Information Systems Research.*
