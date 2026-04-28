@@ -15,6 +15,7 @@ author_profile: true
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), WDS 2023 (Phoenix), AIMLBA 2023 (Temple@Philadelphia), WITS 2023 (Hyderabad, India), AI&Workplace 2024 (Wharton Online), CMIC 2024 (Zhengzhou, China), INFORMS 2024 (Seattle), CIST 2024 (Seattle), POMS 2025 (Atlanta).*
 
 3. Search De-personalization
+    - *Preliminary version appears in INFORMS 2026 (San Francisco).*
 
 4. [Learning to Adopt Generative AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4990170)
     - *DSI Best Interdisciplinary Paper Award, 2025.* 
