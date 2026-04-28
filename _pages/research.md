@@ -39,12 +39,12 @@ author_profile: true
 1. [Reputation Farming: A Structural Model of Freelancers' Bidding Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5645730)
     - *Preliminary version appears in INFORMS 2025 (Atlanta).*
 
-2. [Political Consumerism and the Emergence of Rare Information on User-Generated Content Platforms](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.02789)
-    - *Forthcoming in Management Science.*
-
-3. [Social Audience Size as a Reference Point: Evidence from a Field Experiment](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03144)
+2. [Social Audience Size as a Reference Point: Evidence from a Field Experiment](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03144)
     - *Forthcoming in Management Science.*
     - *Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indianapolis), BBTC 2023 (Miami).*
+
+3. [Political Consumerism and the Emergence of Rare Information on User-Generated Content Platforms](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.02789)
+    - *Forthcoming in Management Science.*
 
 4. [Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating](https://pubsonline.informs.org/doi/10.1287/isre.2021.0379)
     - *Information Systems Research, 2025.*
