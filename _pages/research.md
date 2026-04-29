@@ -68,7 +68,7 @@ author_profile: true
 
 3. Open Foundation Models Will Create the Scaling Law of Mind
 
-4. A Curated World Model Benchmark
+4. PhysGround: Benchmarking Physical Understanding in World Models
     - [*Repository Link*](https://huggingface.co/datasets/anonymouscla/physground)
 
 
