@@ -66,9 +66,7 @@ author_profile: true
     - *ICLR 2025 SCI-FM.*
     - [*Repository Link*](https://github.com/moxin-org/Moxin-LLM)
 
-3. Open Foundation Models Will Create the Scaling Law of Mind
-
-4. PhysGround: Benchmarking Physical Understanding in World Models
+3. PhysGround: Benchmarking Physical Understanding in World Models
     - [*Repository Link*](https://huggingface.co/anonymouscla)
 
 
