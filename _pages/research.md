@@ -67,6 +67,5 @@ author_profile: true
     - [*Repository Link*](https://github.com/moxin-org/Moxin-LLM)
 
 3. PhyGround: Benchmarking Physical Reasoning in Generative World Models
-    - [*Repository Link*](https://huggingface.co/anonymouscla)
 
 
