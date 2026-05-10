@@ -40,7 +40,7 @@ author_profile: true
     - *Preliminary version appears in INFORMS 2025 (Atlanta).*
 
 2. [Social Audience Size as a Reference Point: Evidence from a Field Experiment](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03144)
-    - *Forthcoming in Management Science.*
+    - *Management Science, 2026.*
     - *Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indianapolis), BBTC 2023 (Miami).*
 
 3. [Political Consumerism and the Emergence of Rare Information on User-Generated Content Platforms](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.02789)
