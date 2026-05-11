@@ -4,45 +4,47 @@ permalink: /research/
 author_profile: true
 ---
 
+* denotes first-author or co-first-author papers. + denotes the first author's first paper targeting a top-tier journal.
+
 ## Works on Human-AI interaction and AI-AI interaction
 
-1. Sooner but Weaker: The Dual Impact of Human Intervention on Algorithmic Collusion
+1. *Sooner but Weaker: The Dual Impact of Human Intervention on Algorithmic Collusion
     - *Preliminary version appears in BizAI 2026 (UTD).*
 
-2. Search De-personalization
+2. *Search De-personalization
     - *Preliminary version appears in DSI 2026 (San Francisco).*
     - *Dissertation Chapter 3.*
 
-3. [Algorithmic Collusion or Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579458)
+3. [*Algorithmic Collusion or Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579458)
     - *INFORMS ISS Cluster Best Paper Award, 2025.*
     - *Preliminary version appears in WDS 2023 (Phoenix), BizAI 2025 (UTD), POMS 2025 (Atlanta), INFORMS 2025 (Atlanta).*
     - *Dissertation Chapter 2.*
 
-4. [Generate the Future of Work through AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4529739)
+4. [*Generate the Future of Work through AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4529739)
     - *WITS Best Paper Runner Up, 2023.*    
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), WDS 2023 (Phoenix), AIMLBA 2023 (Temple@Philadelphia), WITS 2023 (Hyderabad, India), AI&Workplace 2024 (Wharton Online), CMIC 2024 (Zhengzhou, China), INFORMS 2024 (Seattle), CIST 2024 (Seattle), POMS 2025 (Atlanta).*
     - *Dissertation Chapter 1.*
 
-5. [Learning to Adopt Generative AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4990170)
+5. [+Learning to Adopt Generative AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4990170)
     - *DSI Best Interdisciplinary Paper Award, 2025.* 
     - *Preliminary version appears in Biz&GenAI 2024 (Wharton@San Francisco), INFORMS 2024 (Seattle), CIST 2024 (Seattle), AIMLBA 2024 (Yale@New Haven), POMS 2025 (Atlanta).*
 
-6. Multimodal AI-Generated Feedback Improves Teaching Quality at the National Scale but Unevenly
+6. *Multimodal AI-Generated Feedback Improves Teaching Quality at the National Scale but Unevenly
     - *Preliminary version appears in TRICS 2026 (Tulane).*
 
 7. How People Use Generative AI in the Organization
     - *Preliminary version appears in INFORMS 2026 (San Francisco).*
 
-8. [When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729503)
+8. [*When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729503)
    - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
 
 
 ## Works on the Human Decision-making Process and Platform Designs
 
-1. [Reputation Farming: A Structural Model of Freelancers' Bidding Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5645730)
+1. [+Reputation Farming: A Structural Model of Freelancers' Bidding Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5645730)
     - *Preliminary version appears in INFORMS 2025 (Atlanta).*
 
-2. [Social Audience Size as a Reference Point: Evidence from a Field Experiment](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03144)
+2. [*Social Audience Size as a Reference Point: Evidence from a Field Experiment](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03144)
     - *Management Science, 2026.*
     - *Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indianapolis), BBTC 2023 (Miami).*
 
@@ -57,7 +59,7 @@ author_profile: true
 5. The Identity Tax: How Group Identity Disclosure Disproportionately Affects Online Discussions Across Hierarchies
     - *Preliminary version appears in CIST 2023 (Phoenix).*
 
-6. Same Space, Different Sparks
+6. +Same Space, Different Sparks
     - *Preliminary version appears in INFORMS 2025 (Atlanta).*
 
 ## LLM Building and Evaluation
