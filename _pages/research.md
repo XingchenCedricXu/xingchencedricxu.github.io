@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-* denotes first-author or co-first-author papers. + denotes the first author's inaugural paper in the PhD program.
+"*" denotes first-author or co-first-author papers. "+" denotes the first author's inaugural paper in the PhD program.
 
 ## Works on Human-AI interaction and AI-AI interaction
 
