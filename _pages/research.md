@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-* denotes first-author or co-first-author papers. + denotes the first author's first paper targeting a top-tier journal.
+* denotes first-author or co-first-author papers. + denotes the first author's inaugural paper of their PhD program, targeting a top-tier journal.
 
 ## Works on Human-AI interaction and AI-AI interaction
 
@@ -32,7 +32,7 @@ author_profile: true
 6. *Multimodal AI-Generated Feedback Improves Teaching Quality at the National Scale but Unevenly
     - *Preliminary version appears in TRICS 2026 (Tulane).*
 
-7. How People Use Generative AI in the Organization
+7. +How People Use Generative AI in the Organization
     - *Preliminary version appears in INFORMS 2026 (San Francisco).*
 
 8. [*When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729503)
