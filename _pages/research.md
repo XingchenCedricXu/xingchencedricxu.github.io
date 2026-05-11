@@ -35,7 +35,7 @@ author_profile: true
 7. +How People Use Generative AI in the Organization
     - *Preliminary version appears in INFORMS 2026 (San Francisco).*
 
-8. [*When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4729503)
+8. *When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine
    - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
 
 
