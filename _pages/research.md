@@ -9,16 +9,19 @@ author_profile: true
 1. Sooner but Weaker: The Dual Impact of Human Intervention on Algorithmic Collusion
     - *Preliminary version appears in BizAI 2026 (UTD).*
 
-2. Search De-personalization (Dissertation Chapter 3)
+2. Search De-personalization
     - *Preliminary version appears in DSI 2026 (San Francisco).*
+    - *Dissertation Chapter 3.*
 
-3. [Algorithmic Collusion or Competition (Dissertation Chapter 2)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579458)
+3. [Algorithmic Collusion or Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579458)
     - *INFORMS ISS Cluster Best Paper Award, 2025.*
     - *Preliminary version appears in WDS 2023 (Phoenix), BizAI 2025 (UTD), POMS 2025 (Atlanta), INFORMS 2025 (Atlanta).*
+    - *Dissertation Chapter 2.*
 
 4. [Generate the Future of Work through AI (Dissertation Chapter 1)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4529739)
     - *WITS Best Paper Runner Up, 2023.*    
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), WDS 2023 (Phoenix), AIMLBA 2023 (Temple@Philadelphia), WITS 2023 (Hyderabad, India), AI&Workplace 2024 (Wharton Online), CMIC 2024 (Zhengzhou, China), INFORMS 2024 (Seattle), CIST 2024 (Seattle), POMS 2025 (Atlanta).*
+    - *Dissertation Chapter 1.*
 
 5. [Learning to Adopt Generative AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4990170)
     - *DSI Best Interdisciplinary Paper Award, 2025.* 
