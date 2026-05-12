@@ -39,7 +39,7 @@ author_profile: true
    - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
 
 
-## Human Decision-making Process and Platform Design
+## Information Economics (Information, Decisions, and Platform Design)
 
 1. [+Reputation Farming: A Structural Model of Freelancers' Bidding Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5645730)
     - *Preliminary version appears in INFORMS 2025 (Atlanta).*
