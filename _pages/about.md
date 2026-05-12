@@ -12,7 +12,7 @@ I am a Ph.D. student in Information Systems at the Michael G. Foster School of B
 
 I will join the Center for Science of Science & Innovation at Kellogg, directed by [Dashun Wang](https://www.dashunwang.com/), starting this summer!
 
-I am interested in the economics of human–AI and AI–AI interactions to improve innovation, efficiency, and welfare allocation in high-stakes domains. My research examines these interactions at both the individual and the market/societal levels, and translates the resulting empirical insights into design principles for AI systems, human–AI collaboration workflows, market mechanisms, and policy.
+I am interested in the economics of human–AI and AI–AI interactions to improve efficiency, innovation, and welfare allocation in high-stakes domains. My research examines these interactions at both the individual and the market/societal levels, and translates the resulting empirical insights into design principles for AI systems, human–AI collaboration workflows, market mechanisms, and policy.
 
 I employ a multidisciplinary approach that combines econometric methods (including structural estimation), field/laboratory experiments, analytical models, and machine learning algorithms (including reinforcement learning and large language models) to analyze data, infer causality, and optimize policies. My work has appeared in *Management Science* and *Information Systems Research*, and has received paper awards from INFORMS, WITS, ICIS, and DSI.
 
