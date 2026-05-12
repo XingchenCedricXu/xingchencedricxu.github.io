@@ -6,7 +6,7 @@ author_profile: true
 
 "*" denotes first-author or co-first-author papers. "+" denotes the first author's inaugural first-authored paper in the PhD program.
 
-## Works on Human-AI interaction and AI-AI interaction
+## Human-AI interaction and AI-AI interaction
 
 1. *Sooner but Weaker: The Dual Impact of Human Intervention on Algorithmic Collusion
     - *Preliminary version appears in BizAI 2026 (UTD).*
@@ -39,7 +39,7 @@ author_profile: true
    - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
 
 
-## Works on the Human Decision-making Process and Platform Designs
+## Human Decision-making Process and Platform Designs
 
 1. [+Reputation Farming: A Structural Model of Freelancers' Bidding Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5645730)
     - *Preliminary version appears in INFORMS 2025 (Atlanta).*
