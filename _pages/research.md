@@ -71,6 +71,6 @@ author_profile: true
     - *ICLR 2025 SCI-FM.*
     - [*Repository Link*](https://github.com/moxin-org/Moxin-LLM)
 
-3. PhyGround: Benchmarking Physical Reasoning in Generative World Models
+3. [PhyGround: Benchmarking Physical Reasoning in Generative World Models](https://arxiv.org/abs/2605.10806)
     - [*Repository Link*](https://phyground.github.io/)
 
