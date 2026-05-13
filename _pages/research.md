@@ -62,7 +62,7 @@ author_profile: true
 6. +Same Space, Different Sparks
     - *Preliminary version appears in INFORMS 2025 (Atlanta).*
 
-## (Open-Source) LLM Building and Evaluation
+## (Open-Source) LLM/VLM Building and Evaluation
 
 1. [Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA](https://arxiv.org/abs/2512.22208)
     - [*Repository Link*](https://huggingface.co/moxin-org/Moxin-7B-VLM)
