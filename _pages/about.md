@@ -22,6 +22,6 @@ I genuinely enjoy the process of diving deep into data patterns and modeling tec
 
 Professional Contact: cedric.x.xu@gmail.com and xcxu21@uw.edu
 
-*Note: Only the papers listed on this website represent my personal views and positions.*
+*Note: Only the papers listed on this website represent my views.*
 
 Updated: 2026/05
