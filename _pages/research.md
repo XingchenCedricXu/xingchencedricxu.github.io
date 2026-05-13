@@ -74,4 +74,3 @@ author_profile: true
 3. [PhyGround: Benchmarking Physical Reasoning in Generative World Models](https://arxiv.org/abs/2605.10806)
     - [*Repository Link*](https://phyground.github.io/)
 
-*Note: Only the papers listed here reflect my views.*
