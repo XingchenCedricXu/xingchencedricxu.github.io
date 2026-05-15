@@ -16,5 +16,5 @@ I'm a runner and a retired taekwondo athlete.
 -	My Personal Best (PB) in 100m is 11.2s.
 -	I won a silver medal in a city-level professional sports meet.
 -	I also finished a Road Cycling around Qinghai Lake (360 kilometers) in four days.
--	I was an avid LoL and HoK player in the past - server-top Lillia and Luara.
+-	I was an avid LoL and HoK player - server-top Lillia and Luara.
 
