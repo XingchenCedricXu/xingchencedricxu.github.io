@@ -30,7 +30,7 @@ author_profile: true
     - *Preliminary version appears in Biz&GenAI 2024 (Wharton@San Francisco), INFORMS 2024 (Seattle), CIST 2024 (Seattle), AIMLBA 2024 (Yale@New Haven), POMS 2025 (Atlanta), INFORMS 2026 (San Francisco).*
 
 6. *Multimodal AI-Generated Feedback Improves Teaching Quality at the National Scale but Unevenly
-    - *Preliminary version appears in TRICS 2026 (Tulane).*
+    - *Preliminary version appears in TRICS 2026 (Tulane), INFORMS 2026 (San Francisco).*
 
 7. +How People Use Generative AI in the Organization
     - *Preliminary version appears in INFORMS 2026 (San Francisco).*
@@ -60,7 +60,7 @@ author_profile: true
     - *Preliminary version appears in CIST 2023 (Phoenix).*
 
 6. +Same Space, Different Sparks
-    - *Preliminary version appears in INFORMS 2025 (Atlanta).*
+    - *Preliminary version appears in INFORMS 2025 (Atlanta), INFORMS 2026 (San Francisco).*
 
 ## (Open-Source) LLM/VLM Building and Evaluation
 
