@@ -56,7 +56,7 @@ author_profile: true
     - *ICIS Best Paper in IS Design, Development and Project Management, 2021.*
     - *Preliminary version appears in CODE 2020 (MIT@Boston), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).*
 
-5. The Identity Tax: How Group Identity Disclosure Disproportionately Affects Online Discussions Across Hierarchies
+5. [The Identity Tax: How Group Identity Disclosure Disproportionately Affects Online Discussions Across Hierarchies](https://www.dropbox.com/scl/fi/krxvx53oq3gaqxjgdyzwv/The_Identity_Tax_abstract.pdf?rlkey=sudt4ulassjrcr37qredqdkz9&st=67l5q6s0&dl=0)
     - *Preliminary version appears in CIST 2023 (Phoenix).*
 
 6. +Same Space, Different Sparks
