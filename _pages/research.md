@@ -41,26 +41,27 @@ author_profile: true
 
 ## Information Economics (Information and Platform Design/Algorithms)
 
-1. [+Reputation Farming: A Structural Model of Freelancers' Bidding Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5645730)
-    - *Preliminary version appears in INFORMS 2025 (Atlanta).*
-
-2. [*Social Audience Size as a Reference Point: Evidence from a Field Experiment](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03144)
+1. [*Social Audience Size as a Reference Point: Evidence from a Field Experiment](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03144)
     - *Management Science, 2026.*
     - *Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indianapolis), BBTC 2023 (Miami).*
 
-3. [Political Consumerism and the Emergence of Rare Information on User-Generated Content Platforms](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.02789)
+2. [+Reputation Farming: A Structural Model of Freelancers' Bidding Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5645730)
+    - *Preliminary version appears in INFORMS 2025 (Atlanta).*
+
+3. +Same Space, Different Sparks
+    - *Preliminary version appears in INFORMS 2025 (Atlanta), INFORMS 2026 (San Francisco).*
+
+4. [Political Consumerism and the Emergence of Rare Information on User-Generated Content Platforms](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.02789)
     - *Forthcoming in Management Science.*
 
-4. [Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating](https://pubsonline.informs.org/doi/10.1287/isre.2021.0379)
+5. [Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating](https://pubsonline.informs.org/doi/10.1287/isre.2021.0379)
     - *Information Systems Research, 2025.*
     - *ICIS Best Paper in IS Design, Development and Project Management, 2021.*
     - *Preliminary version appears in CODE 2020 (MIT@Boston), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).*
 
-5. [The Identity Tax: How Group Identity Disclosure Disproportionately Affects Online Discussions Across Hierarchies](https://www.dropbox.com/scl/fi/krxvx53oq3gaqxjgdyzwv/The_Identity_Tax_abstract.pdf?rlkey=sudt4ulassjrcr37qredqdkz9&st=67l5q6s0&dl=0)
+6. [The Identity Tax: How Group Identity Disclosure Disproportionately Affects Online Discussions Across Hierarchies](https://www.dropbox.com/scl/fi/krxvx53oq3gaqxjgdyzwv/The_Identity_Tax_abstract.pdf?rlkey=sudt4ulassjrcr37qredqdkz9&st=67l5q6s0&dl=0)
     - *Preliminary version appears in CIST 2023 (Phoenix).*
 
-6. +Same Space, Different Sparks
-    - *Preliminary version appears in INFORMS 2025 (Atlanta), INFORMS 2026 (San Francisco).*
 
 ## (Open-Source) LLM/VLM Building and Evaluation
 
