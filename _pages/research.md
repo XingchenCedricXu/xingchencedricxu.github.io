@@ -11,7 +11,7 @@ author_profile: true
 1. *Sooner but Weaker: The Dual Impact of Human Intervention on Algorithmic Collusion
     - *Preliminary version appears in BizAI 2026 (UTD).*
 
-2. *De-personalizing Search on Social Media: Theory and a Large-Scale Field Experiment
+2. *De-personalizing Search on Social Media: A Large-Scale Field Experiment
     - *Preliminary version appears in DSI 2026 (San Francisco).*
     - *Dissertation Chapter 3.*
 
