@@ -18,9 +18,6 @@ author_profile: true
 - IS 445: Database Management, 2021-2022, 2023-2024
 - IS 410: Networks and Cybersecurity, 2021-2022, 2025-2026
 
-## Guest Tutorial 
-- Large Language Models and Business Applications (USTC), 2025
-
 ## Service Activities
 - Journal Reviewer: Management Science, Information Systems Research, Manufacturing & Service Operations Management
 - Conference Organization Committee: INFORMS Workshop on Data Science (WDS 2024; Student)
