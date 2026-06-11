@@ -49,7 +49,7 @@ author_profile: true
     - *Preliminary version appears in INFORMS 2025 (Atlanta).*
 
 3. +Same Space, Different Sparks
-    - *Preliminary version appears in INFORMS 2025 (Atlanta), INFORMS 2026 (San Francisco).*
+    - *Preliminary version appears in INFORMS 2025 (Atlanta), INFORMS 2026 (San Francisco), DSI 2026 (San Francisco).*
 
 4. [Political Consumerism and the Emergence of Rare Information on User-Generated Content Platforms](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.02789)
     - *Forthcoming in Management Science.*
