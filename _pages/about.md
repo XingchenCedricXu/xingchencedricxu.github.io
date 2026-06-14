@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Information Systems at the Michael G. Foster School of Business, University of Washington. I'm fortunate to work under the supervision of Professor [Yong Tan](http://faculty.washington.edu/ytan/index.htm). Before my Ph.D. career, I studied Information Management and Information Systems at the School of Economics and Management, Tsinghua University.
-
 I will join the Center for Science of Science & Innovation at Kellogg, directed by [Dashun Wang](https://www.dashunwang.com/), starting this summer!
+
+I got my PhD in Information Systems at the Michael G. Foster School of Business, University of Washington. I was fortunate to work under the supervision of Professor [Yong Tan](http://faculty.washington.edu/ytan/index.htm). Before my Ph.D. career, I studied Information Management and Information Systems at the School of Economics and Management, Tsinghua University.
 
 I study the economics of human–AI and AI–AI interactions, with a focus on augmenting intelligence, improving well-being, and optimizing welfare allocation in high-stakes domains. My research examines these interactions at both the individual and the market/societal levels, and translates the resulting empirical insights into design principles for AI systems, human–AI collaboration workflows, market mechanisms, and policy.
 
