@@ -31,7 +31,7 @@ author_profile: true
     - *Preliminary version appears in Biz&GenAI 2024 (Wharton@San Francisco), INFORMS 2024 (Seattle), CIST 2024 (Seattle), AIMLBA 2024 (Yale@New Haven), POMS 2025 (Atlanta).*
 
 6. +How People Use Generative AI in the Organization
-    - *Preliminary version appears in INFORMS 2026 (San Francisco).*
+    - *Preliminary version appears in INFORMS 2026 (San Francisco), DSI 2026 (San Francisco).*
 
 7. Multimodal AI-Generated Feedback Improves Teaching Quality at the National Scale but Unevenly
     - *Preliminary version appears in TRICS 2026 (Tulane), INFORMS 2026 (San Francisco).*
