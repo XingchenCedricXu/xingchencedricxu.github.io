@@ -12,7 +12,7 @@ I will join the Center for Science of Science & Innovation at Kellogg, directed 
 
 I got my PhD in Information Systems at the Michael G. Foster School of Business, University of Washington. I was fortunate to work under the supervision of Professor [Yong Tan](http://faculty.washington.edu/ytan/index.htm). Before my Ph.D. career, I studied Information Management and Information Systems at the School of Economics and Management, Tsinghua University.
 
-I study the economics of human–AI and AI–AI interactions, with a focus on augmenting intelligence, improving well-being, and optimizing welfare allocation in high-stakes domains. My research examines these interactions at both the individual and the market/societal levels, and translates the resulting empirical insights into design principles for AI systems, human–AI collaboration workflows, market mechanisms, and policy.
+I study the economics of human–AI and AI–AI interactions, with a focus on augmenting intelligence, improving well-being, and optimizing welfare allocation in high-stakes domains: AI-augmented science, innovation, and work. My research examines these interactions at both the individual and the market/societal levels, and translates the resulting empirical insights into design principles for AI systems, human–AI collaboration workflows, market mechanisms, and policy.
 
 I take a multidisciplinary approach, combining economic tools (field experiments, stylized models, structural estimation) with AI methods (primarily reinforcement learning and large language models) to analyze data, infer causality, and optimize policies. My work has appeared in *Management Science* and *Information Systems Research*, and has received paper awards from *INFORMS*, *WITS*, *ICIS*, and *DSI*.
 
