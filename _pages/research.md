@@ -62,6 +62,8 @@ author_profile: true
 6. [The Identity Tax: How Group Identity Disclosure Disproportionately Affects Online Discussions Across Hierarchies](https://www.dropbox.com/scl/fi/krxvx53oq3gaqxjgdyzwv/The_Identity_Tax_abstract.pdf?rlkey=sudt4ulassjrcr37qredqdkz9&st=67l5q6s0&dl=0)
     - *Preliminary version appears in CIST 2023 (Phoenix).*
 
+7. *Learning Group Dynamics and Engagement Trap
+    - *Preliminary version appears in CIST 2022 (Indianapolis).*
 
 ## (Open-Source) LLM/VLM Building and Evaluation
 
