@@ -37,7 +37,7 @@ author_profile: true
 
 6. +How People Use Generative AI in the Organization
     - *Preliminary version appears in INFORMS 2026 (San Francisco), DSI 2026 (San Francisco).*
-    - *[Structural Estimation], [Reduced-form Analyses]*
+    - *[Structural Estimation], [Learning Model], [Reduced-form Analyses]*
 
 7. Multimodal AI Feedback Improves Teaching Quality and Student Engagement Nationwide But Unevenly
     - *Preliminary version appears in TRICS 2026 (Tulane), INFORMS 2026 (San Francisco).*
