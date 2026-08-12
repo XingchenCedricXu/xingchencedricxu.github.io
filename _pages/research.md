@@ -78,7 +78,7 @@ author_profile: true
 
 7. *Learning Group Dynamics and Engagement Trap
     - *Preliminary version appears in CIST 2022 (Indianapolis).*
-    - *[Structural Estimation], [Hidden Markov Finite-Group Game]*
+    - *[Structural Estimation], [Hidden Markov Finite-Group Game], [Reinforcement Learning]*
 
 ## (Open-Source) LLM/VLM Building and Evaluation
 
