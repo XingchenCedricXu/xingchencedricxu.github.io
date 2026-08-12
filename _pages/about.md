@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*Expanding Intelligence. Advancing Humanity.*
+<p align="center"><em>Expanding Intelligence. Advancing Humanity.</em></p>
 
 I am a Postdoctoral Research Fellow affiliated with the Center for Science of Science & Innovation at Kellogg, directed by [Dashun Wang](https://www.dashunwang.com/).
 
