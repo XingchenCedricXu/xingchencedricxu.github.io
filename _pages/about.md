@@ -22,7 +22,7 @@ Over the past several years, I have collaborated closely with industry leaders t
 
 I genuinely enjoy the process of diving deep into data patterns and modeling techniques to ensure I understand the details personally. To maintain this level of hands-on engagement, I must strictly limit the number of new collaborations I initiate each year. For future projects, I prioritize those that meet three criteria: alignment with the topics mentioned above, relevance to important sectors, and the presence of unique data/methodological challenges. Although full-scale collaboration requires a high level of mutual commitment, I am always open to casual chats to exchange perspectives.
 
-Professional Contact: cedric.x.xu@gmail.com
+*Professional Contact: cedric.x.xu@gmail.com (For communications within NU, please search "Xingchen Xu" in the e-mail system)*
 
 *Note: Only the papers listed on this website represent my views.*
 
