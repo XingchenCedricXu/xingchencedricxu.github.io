@@ -58,27 +58,28 @@ author_profile: true
     - *Preliminary version appears in INFORMS 2025 (Atlanta).*
     - *[Structural Estimation], [Dynamic Discrete Choice Model], [Reduced-form Analyses]*
 
-3. +Same Space, Different Sparks
+3. *Learning Group Dynamics and Engagement Trap
+    - *Preliminary version appears in CIST 2022 (Indianapolis).*
+    - *[Structural Estimation], [Hidden Markov Finite-Group Game], [Reinforcement Learning]*
+
+4. +Same Space, Different Sparks
     - *Preliminary version appears in INFORMS 2025 (Atlanta), INFORMS 2026 (San Francisco), DSI 2026 (San Francisco).*
     - *[Structural Estimation], [Point Process Model], [Reinforcement Learning]*
 
-4. [Political Consumerism and the Emergence of Rare Information on User-Generated Content Platforms](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.02789)
+5. [Political Consumerism and the Emergence of Rare Information on User-Generated Content Platforms](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.02789)
     - *Forthcoming in Management Science.*
     - *[Reduced-form Analyses]*
 
-5. [Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating](https://pubsonline.informs.org/doi/10.1287/isre.2021.0379)
+6. [Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating](https://pubsonline.informs.org/doi/10.1287/isre.2021.0379)
     - *Information Systems Research, 2025.*
     - *ICIS Best Paper in IS Design, Development and Project Management, 2021.*
     - *Preliminary version appears in CODE 2020 (MIT@Boston), WISE 2020 (Virtual), HCISS 2021 (Virtual), DSI 2021 (Atlanta), CSWIM 2021 (Virtual), ICIS 2021 (Austin).*
     - *[Field Experiment], [Lab Experiment], [Reduced-form Analyses]*
 
-6. [The Identity Tax: How Group Identity Disclosure Disproportionately Affects Online Discussions Across Hierarchies](https://www.dropbox.com/scl/fi/krxvx53oq3gaqxjgdyzwv/The_Identity_Tax_abstract.pdf?rlkey=sudt4ulassjrcr37qredqdkz9&st=67l5q6s0&dl=0)
+7. [The Identity Tax: How Group Identity Disclosure Disproportionately Affects Online Discussions Across Hierarchies](https://www.dropbox.com/scl/fi/krxvx53oq3gaqxjgdyzwv/The_Identity_Tax_abstract.pdf?rlkey=sudt4ulassjrcr37qredqdkz9&st=67l5q6s0&dl=0)
     - *Preliminary version appears in CIST 2023 (Phoenix).*
     - *[Reduced-form Analyses]*
 
-7. *Learning Group Dynamics and Engagement Trap
-    - *Preliminary version appears in CIST 2022 (Indianapolis).*
-    - *[Structural Estimation], [Hidden Markov Finite-Group Game], [Reinforcement Learning]*
 
 ## (Open-Source) LLM/VLM Building and Evaluation
 
