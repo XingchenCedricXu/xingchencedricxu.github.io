@@ -10,7 +10,7 @@ redirect_from:
 
 *Expanding Intelligence. Advancing Humanity.*
 
-I am a Postdoctoral Research Fellow affiliated with the Center for Science of Science & Innovation at Kellogg, directed by [Dashun Wang](https://www.dashunwang.com/).
+I am a Postdoctoral Research Fellow affiliated with the Center for Science of Science & Innovation at Kellogg, led by [Dashun Wang](https://www.dashunwang.com/). I am also affiliated with the Northwestern Innovation Institute (NII) and the Ryan Institute on Complexity.
 
 I got my PhD in Information Systems at the Michael G. Foster School of Business, University of Washington. I was fortunate to work under the supervision of Professor [Yong Tan](http://faculty.washington.edu/ytan/index.htm). Before my Ph.D. career, I studied Information Management and Information Systems at the School of Economics and Management, Tsinghua University.
 
