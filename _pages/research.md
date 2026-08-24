@@ -10,34 +10,34 @@ author_profile: true
 
 ## AI Economics (Human-AI interaction and AI-AI interaction)
 
-1. * Sooner but Weaker: The Dual Impact of Human Intervention on Algorithmic Collusion
+1. *Sooner but Weaker: The Dual Impact of Human Intervention on Algorithmic Collusion
     - *Preliminary version appears in BizAI 2026 (UTD), CIST 2026 (San Francisco).*
     - ● *[Multi-agent Game], [Structural Estimation], [Lab Experiment], [Reinforcement Learning], [Analytical Model]*
 
-2. * Depersonalizing Search on Social Media: A Large-Scale Field Experiment
+2. *Depersonalizing Search on Social Media: A Large-Scale Field Experiment
     - *Preliminary version appears in DSI 2026 (San Francisco).*
     - *Dissertation Chapter 3.*
     - ● *[Field Experiment], [Analytical Model], [Reduced-form Analyses]*
 
-3. * [Algorithmic Collusion or Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579458)
+3. *[Algorithmic Collusion or Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579458)
     - *INFORMS ISS Cluster Best Paper Award, 2025.*
     - *Preliminary version appears in WDS 2023 (Phoenix), BizAI 2025 (UTD), POMS 2025 (Atlanta), INFORMS 2025 (Atlanta).*
     - *Dissertation Chapter 2.*
     - ● *[Multi-agent Game], [Structural Estimation], [Search Model], [Reinforcement Learning]*
 
-4. * [Generate the Future of Work through AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4529739)
+4. *[Generate the Future of Work through AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4529739)
     - *WITS Best Paper Runner Up, 2023.*    
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), WDS 2023 (Phoenix), AIMLBA 2023 (Temple@Philadelphia), WITS 2023 (Hyderabad, India), AI&Workplace 2024 (Wharton Online), CMIC 2024 (Zhengzhou, China), INFORMS 2024 (Seattle), CIST 2024 (Seattle), POMS 2025 (Atlanta).*
     - *Dissertation Chapter 1.*
     - ◑ *[Reduced-form Analyses]*
 
-5. + [Learning to Adopt Generative AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4990170)
+5. +[Learning to Adopt Generative AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4990170)
     - *Conditionally accepted by Information Systems Research.*
     - *DSI Best Interdisciplinary Paper Award, 2025.* 
     - *Preliminary version appears in Biz&GenAI 2024 (Wharton@San Francisco), INFORMS 2024 (Seattle), CIST 2024 (Seattle), AIMLBA 2024 (Yale@New Haven), POMS 2025 (Atlanta).*
     - *[Structural Estimation], [Learning Model], [Reduced-form Analyses]*
 
-6. + How People Use Generative AI in the Organization
+6. +How People Use Generative AI in the Organization
     - *Preliminary version appears in INFORMS 2026 (San Francisco), DSI 2026 (San Francisco).*
     - *[Structural Estimation], [Learning Model], [Reduced-form Analyses]*
 
@@ -45,26 +45,26 @@ author_profile: true
     - *Preliminary version appears in TRICS 2026 (Tulane), INFORMS 2026 (San Francisco).*
     - ● *[Reduced-form Analyses]*
 
-8. * When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine
+8. *When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
     - ◑ *[Reduced-form Analyses]*
 
 ## Information Economics (Information and Platform Design/Algorithms)
 
-1. * [Social Audience Size as a Reference Point: Evidence from a Field Experiment](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03144)
+1. *[Social Audience Size as a Reference Point: Evidence from a Field Experiment](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03144)
     - *Management Science, 2026.*
     - *Preliminary version appears in POMS 2022 (Virtual), CIST 2022 (Indianapolis), BBTC 2023 (Miami).*
     - ● *[Field Experiment], [Reduced-form Analyses]*
 
-2. + [Reputation Farming: A Structural Model of Freelancers' Bidding Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5645730)
+2. +[Reputation Farming: A Structural Model of Freelancers' Bidding Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5645730)
     - *Preliminary version appears in INFORMS 2025 (Atlanta).*
     - *[Structural Estimation], [Dynamic Discrete Choice Model], [Reduced-form Analyses]*
 
-3. * Learning Group Dynamics and Engagement Trap
+3. *Learning Group Dynamics and Engagement Trap
     - *Preliminary version appears in CIST 2022 (Indianapolis).*
     - ● *[Structural Estimation], [Hidden Markov Finite-Group Game], [Reinforcement Learning]*
 
-4. + Same Space, Different Sparks
+4. +Same Space, Different Sparks
     - *Preliminary version appears in INFORMS 2025 (Atlanta), CIST 2026 (San Francisco), INFORMS 2026 (San Francisco), DSI 2026 (San Francisco).*
     - *[Structural Estimation], [Point Process Model], [Reinforcement Learning]*
 
