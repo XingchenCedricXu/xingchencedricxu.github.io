@@ -6,7 +6,7 @@ author_profile: true
 
 "*" denotes first-author or co-first-author papers. "+" denotes the first author's inaugural first-authored paper in the PhD program ([some thoughts about writing the first paper](https://docs.google.com/document/d/1szzeSuvMphqV52_66mxQuJHedKP1rS0k7dOLsE9nNcU/edit?usp=sharing)).
 
-"●" indicates that I conducted all of the empirical analyses; "◑" indicates that I conducted part of them.
+"●" indicates that I conducted (almost) all of the empirical analyses; "◑" indicates that I conducted part of them.
 
 ## AI Economics (Human-AI interaction and AI-AI interaction)
 
