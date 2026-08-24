@@ -37,13 +37,13 @@ author_profile: true
     - *Preliminary version appears in Biz&GenAI 2024 (Wharton@San Francisco), INFORMS 2024 (Seattle), CIST 2024 (Seattle), AIMLBA 2024 (Yale@New Haven), POMS 2025 (Atlanta).*
     - *[Structural Estimation], [Learning Model], [Reduced-form Analyses]*
 
-6. +How People Use Generative AI in the Organization
-    - *Preliminary version appears in INFORMS 2026 (San Francisco), DSI 2026 (San Francisco).*
-    - *[Structural Estimation], [Learning Model], [Reduced-form Analyses]*
-
-7. Multimodal AI Feedback Improves Teaching Quality and Student Engagement Nationwide But Unevenly
+6. Multimodal AI Feedback Improves Teaching Quality and Student Engagement Nationwide But Unevenly
     - *Preliminary version appears in TRICS 2026 (Tulane), INFORMS 2026 (San Francisco).*
     - ● *[Reduced-form Analyses]*
+
+7. +How People Use Generative AI in the Organization
+    - *Preliminary version appears in INFORMS 2026 (San Francisco), DSI 2026 (San Francisco).*
+    - *[Structural Estimation], [Learning Model], [Reduced-form Analyses]*
 
 8. *When Content is Goliath and Algorithm is David: The Style and Semantic Effects of Generative Search Engine
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
