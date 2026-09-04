@@ -50,6 +50,8 @@ author_profile: true
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
     - ◑ *[Reduced-form Analyses]*
 
+9. Generative AI Augmentation, Organization Transformation, and Incentives.
+
 ## Information Economics (Information and Platform Design/Algorithms)
 
 1. *[Social Audience Size as a Reference Point: Evidence from a Field Experiment](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.03144)
