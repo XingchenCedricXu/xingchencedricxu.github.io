@@ -12,7 +12,7 @@ redirect_from:
 
 I am a Postdoctoral Research Fellow affiliated with the Center for Science of Science & Innovation at Kellogg, led by [Dashun Wang](https://www.dashunwang.com/). I am also affiliated with the Northwestern Innovation Institute (NII) and the Ryan Institute on Complexity.
 
-I got my PhD in Information Systems at the Michael G. Foster School of Business, University of Washington. I was fortunate to work under the supervision of Professor [Yong Tan](http://faculty.washington.edu/ytan/index.htm). Before my Ph.D. career, I studied Information Management and Information Systems at the School of Economics and Management, Tsinghua University.
+I got my PhD in Information Systems at the Michael G. Foster School of Business, University of Washington (2026). I was fortunate to work under the supervision of Professor [Yong Tan](http://faculty.washington.edu/ytan/index.htm). Before my Ph.D. career, I studied Information Management and Information Systems at the School of Economics and Management, Tsinghua University (2016-2021).
 
 I study the economics of human–AI and AI–AI interactions to augment human intelligence, improve well-being, and enhance social welfare in high-stakes domains. My current research spans cultivating intelligence through education, expanding its frontiers through science, and translating it into technological innovation and work. I examine these interactions at the individual, market, and societal levels, introducing empirical insights into design principles for AI systems, human–AI collaboration, market mechanisms, and public policy.
 
