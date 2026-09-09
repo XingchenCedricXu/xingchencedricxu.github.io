@@ -53,7 +53,6 @@ author_profile: true
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
     - ◑ *[Reduced-form Analyses]*
 
-8. Generative AI Augmentation, Organization Transformation, and Incentives.
 
 ## Information Economics (Information and Platform Design/Algorithms)
 
