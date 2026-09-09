@@ -8,7 +8,7 @@ author_profile: true
 
 "●" indicates that I conducted (almost) all of the empirical analyses; "◑" indicates that I conducted part of them.
 
-## Human-Machine Intelligence (AI for Education, Science, and Innovation)
+## Human-Machine Intelligence (Education, Science, Innovation, and AI)
 
 1. Multimodal AI Feedback Improves Teaching Quality and Student Engagement Nationwide But Unevenly
     - *Preliminary version appears in TRICS 2026 (Tulane), INFORMS 2026 (San Francisco).*
