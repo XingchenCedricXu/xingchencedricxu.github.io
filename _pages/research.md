@@ -10,6 +10,8 @@ author_profile: true
 
 ## Human-Machine Intelligence (Education, Science, Innovation, and AI)
 
+Currently building a real platform alongside some exciting research. More on our "startup" effort soon.
+
 1. Multimodal AI Feedback Improves Teaching Quality and Student Engagement Nationwide But Unevenly
     - *Preliminary version appears in TRICS 2026 (Tulane), INFORMS 2026 (San Francisco).*
     - ● *[Reduced-form Analyses]*
