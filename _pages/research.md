@@ -8,13 +8,6 @@ author_profile: true
 
 "●" indicates that I conducted (almost) all of the empirical analyses; "◑" indicates that I conducted part of them.
 
-## Human-Machine Intelligence (Education, Science, Innovation, and AI)
-
-1. Multimodal AI Feedback Improves Teaching Quality and Student Engagement Nationwide But Unevenly
-    - *Preliminary version appears in TRICS 2026 (Tulane), INFORMS 2026 (San Francisco).*
-    - ● *[Reduced-form Analyses]*
-
-
 ## AI Economics (Human-AI interaction and AI-AI interaction)
 
 1. *Sooner but Weaker: The Dual Impact of Human Intervention on Algorithmic Collusion
@@ -53,6 +46,9 @@ author_profile: true
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), INFORMS 2023 (Phoenix), Biz&AI 2024 (UTD@Dallas).*
     - ◑ *[Reduced-form Analyses]*
 
+8. Multimodal AI Feedback Improves Teaching Quality and Student Engagement Nationwide But Unevenly
+    - *Preliminary version appears in TRICS 2026 (Tulane), INFORMS 2026 (San Francisco).*
+    - ● *[Reduced-form Analyses]*
 
 ## Information Economics (Information and Platform Design/Algorithms)
 
