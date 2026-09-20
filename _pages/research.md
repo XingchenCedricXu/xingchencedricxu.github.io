@@ -91,7 +91,7 @@ author_profile: true
     - *[Visual Language Model], [Visual Language Action]*
 
 2. [7B Fully Open Source Moxin-LLM -- From Pretraining to GRPO-based Reinforcement Learning Enhancement](https://arxiv.org/abs/2412.06845)
-    - *ICLR 2025 SCI-FM.*
+    - ***ICLR 2025 SCI-FM.***
     - [*Repository Link*](https://github.com/moxin-org/Moxin-LLM)
     - *[Large Language Model]*
 
