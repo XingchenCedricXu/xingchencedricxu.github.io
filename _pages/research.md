@@ -4,8 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-<img src="/images/research-motto.png" alt="Slow is smooth. Smooth is fast." width="320">
-
 "*" denotes first-author or co-first-author papers. "+" denotes the first author's inaugural first-authored paper in the PhD program ([some thoughts about writing the first paper](https://docs.google.com/document/d/1szzeSuvMphqV52_66mxQuJHedKP1rS0k7dOLsE9nNcU/edit?usp=sharing)).
 
 "●" indicates that I conducted (almost) all of the empirical analyses; "◑" indicates that I conducted part of them.
@@ -100,3 +98,7 @@ author_profile: true
 3. [PhyGround: Benchmarking Physical Reasoning in Generative World Models](https://arxiv.org/abs/2605.10806)
     - [*Repository Link*](https://phyground.github.io/)
     - *[World Model], [Benchmark]*
+
+---
+
+<p align="center"><img src="/images/research-motto.png" alt="Slow is smooth. Smooth is fast." width="280"></p>p>
