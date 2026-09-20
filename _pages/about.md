@@ -10,7 +10,7 @@ redirect_from:
 
 *Expanding Intelligence. Advancing Humanity.*
 
-*Slow is smooth, smooth is fast.*
+*Slow is smooth. Smooth is fast.*
 
 I am a Postdoctoral Research Fellow affiliated with the Center for Science of Science & Innovation at Kellogg, led by [Dashun Wang](https://www.dashunwang.com/). I am also affiliated with the Northwestern Innovation Institute (NII) and the Ryan Institute on Complexity. We are currently building a unique platform alongside some exciting research. More on our "startup" effort soon.
 
