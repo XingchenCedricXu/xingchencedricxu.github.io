@@ -14,7 +14,7 @@ author_profile: true
     - *Preliminary version appears in BizAI 2026 (UTD), CIST 2026 (San Francisco).*
     - ● *[Multi-agent Game], [Structural Estimation], [Lab Experiment], [Reinforcement Learning], [Analytical Model]*
 
-2. *Depersonalizing Search on Social Media: A Large-Scale Field Experiment
+2. *[Depersonalizing Search on Social Media: A Large-Scale Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7491858)
     - *Preliminary version appears in DSI 2026 (San Francisco).*
     - *Dissertation Chapter 3.*
     - ● *[Field Experiment], [Analytical Model], [Reduced-form Analyses]*
