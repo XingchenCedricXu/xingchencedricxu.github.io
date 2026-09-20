@@ -101,4 +101,4 @@ author_profile: true
 
 ---
 
-<p align="center"><img src="/images/research-motto.png" alt="Slow is smooth. Smooth is fast." width="280"></p>p>
+<p align="center"><img src="/images/research-motto.png" alt="Slow is smooth. Smooth is fast." width="280"></p>
