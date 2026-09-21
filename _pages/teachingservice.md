@@ -19,7 +19,7 @@ author_profile: true
 - IS 410: Networks and Cybersecurity, 2021-2022, 2025-2026
 
 ## Service Activities
-- Journal Reviewer: Management Science, Information Systems Research, Manufacturing & Service Operations Management
+- Journal Reviewer: Management Science, Information Systems Research, Manufacturing & Service Operations Management, Decision Sciences Journal, Information and Organization
 - Conference Organization Committee: INFORMS Workshop on Data Science (WDS 2024; Student)
 - Conference PC Member or Reviewer: Conference on Information Systems and Technology (CIST 2022, 2023), International Conference on Information Systems (ICIS 2023, 2024, 2025), INFORMS Workshop on Data Science (WDS 2023, 2024, 2025, 2026), Pacific Asia Conference on Information Systems (PACIS 2023), Decision Science Institute Annual Conference (DSI 2025)
 - UW Foster First-Year Ph.D. Mentor (2023 - 2025)
