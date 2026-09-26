@@ -61,13 +61,13 @@ author_profile: true
     - *Preliminary version appears in INFORMS 2025 (Atlanta).*
     - *[Structural Estimation], [Dynamic Discrete Choice Model], [Reduced-form Analyses]*
 
-3. *Learning Group Dynamics and Engagement Trap
+3. +Same Space, Different Sparks
+    - *Preliminary version appears in INFORMS 2025 (Atlanta), CIST 2026 (San Francisco), INFORMS 2026 (San Francisco), DSI 2026 (San Francisco), ICIS 2026 (Lisbon, Portugal).*
+    - *[Structural Estimation], [Point Process Model], [Reinforcement Learning]*
+
+4. *Learning Group Dynamics and Engagement Trap
     - *Preliminary version appears in CIST 2022 (Indianapolis).*
     - ● *[Structural Estimation], [Hidden Markov Finite-Group Game], [Reinforcement Learning]*
-
-4. +Same Space, Different Sparks
-    - *Preliminary version appears in INFORMS 2025 (Atlanta), CIST 2026 (San Francisco), INFORMS 2026 (San Francisco), DSI 2026 (San Francisco).*
-    - *[Structural Estimation], [Point Process Model], [Reinforcement Learning]*
 
 5. [Political Consumerism and the Emergence of Rare Information on User-Generated Content Platforms](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.02789)
     - ***Forthcoming in Management Science.***
