@@ -10,7 +10,7 @@ author_profile: true
 
 ## AI Economics (Human-AI interaction and AI-AI interaction)
 
-1. *Sooner but Weaker: The Dual Impact of Human Intervention on Algorithmic Collusion
+1. *Human Behavioral Intervention Can Weaken Algorithmic Collusion
     - *Preliminary version appears in BizAI 2026 (UTD), CIST 2026 (San Francisco).*
     - ● *[Multi-agent Game], [Structural Estimation], [Lab Experiment], [Reinforcement Learning], [Analytical Model]*
 
