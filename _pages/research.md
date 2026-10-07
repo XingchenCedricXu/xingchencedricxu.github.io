@@ -47,7 +47,7 @@ author_profile: true
     - ◑ *[Reduced-form Analyses]*
 
 8. Multimodal AI Feedback Improves Teaching Quality and Student Engagement Nationwide But Unevenly
-    - *Preliminary version appears in TRICS 2026 (Tulane), INFORMS 2026 (San Francisco).*
+    - *Preliminary version appears in TRICS 2026 (Tulane), INFORMS 2026 (San Francisco), WITS 2026 (Lisbon, Portugal).*
     - ● *[Reduced-form Analyses]*
 
 ## Information Economics (Information and Platform Design/Algorithms)
