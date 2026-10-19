@@ -26,7 +26,7 @@ author_profile: true
     - *Dissertation Chapter 2.*
     - ● *[Multi-agent Game], [Structural Estimation], [Search Model], [Reinforcement Learning]*
 
-4. *[Generate the Future of Work through AI](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4529739)
+4. *["Generate" the Future of Work through AI: Empirical Evidence from Online Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4529739)
     - ***Forthcoming in Information Systems Research.***
     - ***WITS Best Paper Runner Up, 2023.***    
     - *Preliminary version appears in Biz&GenAI 2023 (Wharton@San Francisco), WDS 2023 (Phoenix), AIMLBA 2023 (Temple@Philadelphia), WITS 2023 (Hyderabad, India), AI&Workplace 2024 (Wharton Online), CMIC 2024 (Zhengzhou, China), INFORMS 2024 (Seattle), CIST 2024 (Seattle), POMS 2025 (Atlanta).*
