@@ -20,9 +20,12 @@ I take a multidisciplinary approach, combining economic tools (field experiments
 
 Over the past several years, I have collaborated closely with leading institutions to develop, implement, and evaluate algorithms within high-stakes environments. I have also partnered with multiple platforms to address critical pain points by integrating their business intuition with rigorous data analysis. Several of the interventions I proposed have been integrated into production, where they continue to deliver substantial value.
 
-I enjoy diving deep into data patterns and modeling techniques so that I understand the details firsthand. I also believe that good science emerges from quiet time and deep thinking (slow science with fast tests) rather than shallow discussion. To maintain this level of hands-on engagement and depth, I have to strictly limit the number of new collaborations I initiate each year. For future projects, I prioritize those that meet three criteria: alignment with the topics mentioned above, relevance to important sectors, and team members who genuinely enjoy deep thinking. (Fully occupied now; expected mental token reset: 2028/1)
+I like to work directly with the data and the models myself, so that I understand the details firsthand. I believe good science comes from quiet time and deep thinking (*slow science with fast tests*) rather than from shallow discussion. Protecting that time means two commitments:
 
-For professional contact, please email cedric.x.xu@gmail.com. For the reasons outlined above, I do not use messaging apps for discussing research details. (For communication within NU, please search "Xingchen Xu" in the email system.)
+1. I keep new collaborations to a small number each year. When I take on a new project, I look for three things: a fit with the topics above, relevance to important sectors, and collaborators who genuinely enjoy thinking deeply.
+2. I avoid meetings that have no clear agenda, or where participants haven't thought through the questions beforehand. For the same reason, I do not use messaging apps to discuss research.
+
+For professional contact, please email cedric.x.xu@gmail.com. (For communication within NU, please search "Xingchen Xu" in the email system.)
 
 *Note: Only the papers listed on this website represent my views.*
 
