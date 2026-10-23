@@ -23,7 +23,7 @@ Over the past several years, I have collaborated closely with leading institutio
 I enjoy diving deep into data patterns and modeling techniques so that I understand the details firsthand. I also believe good science comes from quiet time and deep thinking (*slow science with fast tests*) rather than from shallow discussion. Protecting that time means two commitments:
 
 1. I keep new collaborations to a small number each year. When I take on a new project, I look for three things: a fit with the topics above, relevance to important sectors, and collaborators who genuinely enjoy thinking deeply.
-2. I avoid meetings that have no clear agenda, or where participants haven't thought through the questions beforehand. For the same reason, I do not use messaging apps to discuss research.
+2. I value focused, well-prepared discussion, so I prefer meetings with a clear agenda and questions we've all thought through in advance. For the same reason, I don't discuss research over messaging apps, and my inbox is filtered by an agent that prioritizes well-developed thoughts tied to specific research questions.
 
 For professional contact, please email cedric.x.xu@gmail.com. (For communication within NU, please search "Xingchen Xu" in the email system.)
 
