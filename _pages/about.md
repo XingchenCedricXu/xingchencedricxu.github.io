@@ -18,7 +18,7 @@ I study the economics of human–AI and AI–AI interactions to augment human in
 
 I take a multidisciplinary approach, combining economic tools (field experiments, stylized models, structural estimation) with AI methods (primarily reinforcement learning and large language models) to analyze data, infer causality, and optimize policies. My work has appeared in *Management Science* and *Information Systems Research*, and has received paper awards from *INFORMS*, *WITS*, *ICIS*, and *DSI*.
 
-Over the past several years, I have collaborated closely with leading institutions to develop, implement, and evaluate policies and algorithms within high-stakes environments. Several of the interventions I proposed have been integrated into production, where they continue to deliver substantial value.
+Beyond academic research, I collaborate closely with leading institutions to design, implement, and evaluate policies and algorithms in high-stakes settings. Several interventions I proposed have been deployed in production, where they continue to generate substantial impact.
 
 I enjoy diving deep into data patterns and modeling techniques so that I understand the details firsthand. I also believe good science comes from quiet time and deep thinking (*slow science with fast tests*) rather than from shallow discussion. Protecting that time means two commitments: First, I keep new collaborations to a small number each year. Second, I prefer meetings with a clear agenda and questions we’ve all thought through in advance. Beyond meetings, I often share developed ideas as written notes, and I welcome the same in return.
 
