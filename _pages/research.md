@@ -71,7 +71,7 @@ author_profile: true
     - ● *[Structural Estimation], [Hidden Markov Finite-Group Game], [Reinforcement Learning]*
 
 5. [Political Consumerism and the Emergence of Rare Information on User-Generated Content Platforms](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.02789)
-    - ***Forthcoming in Management Science.***
+    - ***Management Science, 2026.***
     - ◑ *[Reduced-form Analyses]*
 
 6. [Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from Online Dating](https://pubsonline.informs.org/doi/10.1287/isre.2021.0379)
