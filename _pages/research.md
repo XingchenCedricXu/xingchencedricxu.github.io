@@ -12,7 +12,7 @@ author_profile: true
 
 1. *Human Behavioral Intervention Can Weaken Algorithmic Collusion
     - ***CIST Best Paper Award Nomination, 2026.***
-    - *Preliminary version appears in BizAI 2026 (UTD), CIST 2026 (San Francisco).*
+    - *Preliminary version appears in BizAI 2026 (UTD), CIST 2026 (San Francisco), POMS 2026 (Orlando).*
     - ● *[Multi-agent Game], [Structural Estimation], [Lab Experiment], [Reinforcement Learning], [Analytical Model]*
 
 2. *[Depersonalizing Search on Social Media: A Large-Scale Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7491858)
