@@ -63,7 +63,7 @@ author_profile: true
     - *Preliminary version appears in INFORMS 2025 (Atlanta).*
     - *[Structural Estimation], [Dynamic Discrete Choice Model], [Reduced-form Analyses]*
 
-3. +Same Space, Different Sparks
+3. +Default or Departure? An Empirical and Optimization Framework for Online Peer Support
     - *Preliminary version appears in INFORMS 2025 (Atlanta), CIST 2026 (San Francisco), INFORMS 2026 (San Francisco), DSI 2026 (San Francisco), ICIS 2026 (Lisbon, Portugal).*
     - *[Structural Estimation], [Point Process Model], [Reinforcement Learning]*
 
